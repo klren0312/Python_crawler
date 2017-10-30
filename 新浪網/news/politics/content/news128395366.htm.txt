@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="publishid" content="128395366.11.3.0"/><meta name="pageid" content="1197.1197.0.0.115033.0.0.0.0.0.11421.128395366"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta content="telephone=no" name="format-detection" />
+<meta name="keywords" content="金融街,住宅销售,住宅项目,物业公司,住宅物业" />
+<meta name="description" content="金融街做住宅缘何屡遭维权 漫香林再曝私搭乱建问题---起家于商务办公产品开发的金融街控股近年来不断的向住宅领域扩展，而且其在北京开发的金色漫香林、金色漫香郡以及金融街·融汇等项目在销售阶段全是备受瞩目的热点楼盘，不过交房后却遭遇业主的不断维权。近日，金融街·金色漫香林业主向记者反映，小区存在私自侵占绿地等问题。" />
+<title>
+金融街做住宅缘何屡遭维权 漫香林再曝私搭乱建问题-新华网
+</title>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/pc.css" >
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/pc.css" media="screen and (min-width: 768px)" />
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/mobile.css" media="screen and (min-width:0px) and (max-width: 767px)" />
+<script src="http://www.xinhuanet.com/static/jq.js"></script>
+</head>
+<body>
+<div id="wx_pic" style="display:none;">
+<img src="http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg" width="300" height="300" />
+</div>
+<div id="pcHeader" class="domPC">
+<div class="con clearfix">
+<div class="nav clearfix"> <a class="first" href="http://www.news.cn/" target="_blank">首页</a> <a href="http://www.news.cn/politics/" target="_blank">时政</a> <a href="http://www.news.cn/world/" target="_blank">国际</a> <a href="http://www.news.cn/fortune/" target="_blank">财经</a> <a href="http://www.news.cn/politics/leaders/" target="_blank">高层</a> <a href="http://www.news.cn/politics/xhll.htm" target="_blank">理论</a> <a href="http://forum.home.news.cn/index.jsp" target="_blank">论坛</a> <a href="http://sike.news.cn/" target="_blank">思客</a> <a href="http://www.news.cn/info/" target="_blank">信息化</a> <a href="http://xuan.news.cn/" target="_blank">炫空间</a> <a href="http://www.news.cn/mil/" target="_blank">军事</a> <a href="http://www.news.cn/gangao/" target="_blank">港澳</a> <a href="http://www.news.cn/tw/" target="_blank">台湾</a> <a href="http://www.news.cn/photo/index.htm" target="_blank">图片</a> <a href="http://www.news.cn/video/index.htm" target="_blank">视频</a> <a href="http://www.news.cn/ent/" target="_blank">娱乐</a> <a href="http://www.news.cn/fashion/" target="_blank">时尚</a> <a href="http://www.news.cn/sports/" target="_blank">体育</a> <a href="http://www.news.cn/auto/" target="_blank">汽车</a> <a href="http://www.news.cn/tech/" target="_blank">科技</a> <a style="border-right:none" href="http://www.news.cn/food/" target="_blank">食品</a> </div>
+</div>
+</div>
+<!--手机广告-->
+<div class="domMobile" id="mobile_ad1"></div>
+<div id="mobileHeader" class="domMobile">
+<a class="logo" href="http://www.xinhuanet.com"></a> <a class="home" href=""></a> <span class="arrow"></span> <span class="right"><i></i></span>
+<div class="mobileNavList clearfix">
+<script type="text/javascript" src="http://www.news.cn/static/js/20150323_moblie_nav.js"></script>
+</div>
+</div>
+<!--文章标题-->
+<div id="headerTitle">
+<div id="articleTit" class="clearfix">
+<div class="crumbs domPC clearfix">
+<a href="http://www.news.cn/" class="logo domPC" target="_blank"></a> <span class="curDiv clearfix">新华网 &gt; <span class="curNews domPC"></span> &gt; 正文</span>
+<div class="search">
+<!--<form target="_blank" id="f1" name="f1" action="http://info.search.news.cn/result.jspa" onSubmit="document.charset='gbk'; return trimInput();">
+<input type="hidden" name="ss" value="2" />/
+<input type="hidden" name="t" value="1" />/
+<input type="hidden" name="t1" value="0" />/
+<input type="hidden" name="rp" value="10" />/
+<input type="hidden" name="np" value="1" />/
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="q" class="ss" name="n1" />/
+<input type="submit" class="ss_submit" name="btn" value="" />/
+</form>-->
+<form class="clearfix" target="_blank" id="f1" name="f1" action="http://news.chinaso.com/search" onSubmit="document.charset='utf-8';">
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="q" class="ss" name="wd" placeholder="新华网" data-inputcolor="#9c9c9c" />
+<input type="submit" class="ss_submit" name="btn" value="" />
+</form>
+<script type="text/javascript">
+String.prototype.trim = function(){
+	var reExtraSpace = /^\s*(.*?)\s+$/;
+	return this.replace(reExtraSpace,"$1");
+}
+function trimInput(){
+	var arg =document.getElementById("inputwd").value;
+	if(arg.trim() == ""){
+		alert("请输入关键字");
+		document.getElementById("inputwd").focus();
+		return false;
+	}else{
+		return true;
+	}
+}
+</script> 
+</div>
+</div>
+</div>
+</div>
+<div id="center" class="clearfix">
+<span class="yjfxImg domPC"></span>
+<div id="aside" class="domPC">
+<iframe id="asideRight" class="iframeLoad" data-original="" src="" width="100%" height="2820" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+</div>
+<div id="article">
+<h1 id="title">
+金融街做住宅缘何屡遭维权 漫香林再曝私搭乱建问题
+</h1>
+<div class="info clearfix">
+<div class="source">
+<span class="time">
+2015年11月05日 08:19:00
+</span>
+<span>
+来源：
+<em id="source">
+北京商报
+</em>
+</span>
+</div>
+<ul class="comment domPC clearfix">
+<li class="pl">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"><span id="wyhs"></span><a href="#pinglun" style="text-align:center">评论<i id="wyhs_num">0</i></a></div>
+</div>
+</li>
+<li class="share">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02">
+<div class="bdsharebuttonbox"> <a href="#" class="bds_more fx" data-cmd="more"></a></div>
+</div>
+</div>
+</li>
+<li class="dy">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:window.print();" class="dy">打印</a> </div>
+</div>
+</li>
+<li class="fd">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:" class="fd">字大</a> </div>
+</div>
+</li>
+<li class="sx">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:" class="sx">字小</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="article">
+<div id="videoArea">
+<span style="display:none">
+
+</span>
+</div>
+<p align="center"><img id="{B984458F-A14A-4B3E-A84A-23C829834D5D}" src="1n" align="center" /></p>
+<p>　　起家于商务办公产品开发的金融街控股近年来不断的向住宅领域扩展，而且其在北京开发的金色漫香林、金色漫香郡以及金融街·融汇等项目在销售阶段全是备受瞩目的热点楼盘，不过交房后却遭遇业主的不断维权。继续金融街·融汇车位问题后，近日，金融街·金色漫香林业主向北京商报记者反映，小区存在私自侵占绿地、公共区域长期缺乏维护、新老物业公司对峙等问题。</p>
+<p><strong>　　物业管理不善</strong></p>
+<p>　　“楼下一层的业主私自侵占公共绿地，改建成自家停车位，单元门口左右对称的树被砍掉一棵，路灯也改到更靠近单元门的位置，给同一单元的其他住户生活带来极大不便。”金融街·金色漫香林二期业主颜先生告诉北京商报记者。颜先生采取告知物业公司、打城管热线等多种方式，但至今问题仍未得到解决。</p>
+<p>　　北京商报记者到小区调查发现，上述事件在金融街·金色漫香林并非个例。同为二期业主的王先生在接受记者采访时表示：“金融街·金色漫香林小区的物业服务差，是困扰该小区数年的问题，小区内私搭乱建现象严重，尤其是一楼业主圈占公共绿地，开挖地下室等情况屡屡发生，但物业从来都是纵容甚至配合。这些问题在‘五期’尤为普遍。”</p>
+<p>　　此外，小区公共区域长期缺乏维护，夜晚路灯长期不亮，业主摸黑走路，绿化缺乏维护，公共区域的卫生脏乱差，装修垃圾长期堆放无人清理。</p>
+<p>　　颜先生进一步称，鉴于这种情况，小区业委会在今年7月表决通过替换金融街物业为城建物业，并规定了交接日期和交接事项。</p>
+<p><strong>　　新老物业交接不彻底</strong></p>
+<p>　　本应顺利进行的新老物业公司交接，却成了小区业主的又一宗烦心事。据悉，从9月初开始进行的物业交接，至今仍迟迟未能完成，最大的难点是城建物业的办公地点。</p>
+<p>　　位于小区东区和西区中间的一座二层小楼，在一扇不大的玻璃门上写着“城建物业”，里面就是城建物业的办公地点。事实上，这间墙上挂着许多电子显示屏、看起来还不到100平方米的房间，是小区的中控室，目前被用来当做新物业公司的临时办公地点。</p>
+<p>　　城建物业负责人告诉北京商报记者，在中控室办公，不符合消防部门的有关要求，但是老的物业公司——金融街物业没有交出已经使用多年的办公区，他们只能暂时在中控室办公。</p>
+<p>　　业主颜先生介绍，“金融街物业办公地点就在中控室旁边的那栋楼，办公环境宽敞明亮，但是已经被亦庄镇政府收回。小区业委会曾多次与老物业公司、亦庄镇政府进行沟通，但新物业公司的办公问题至今仍未得到解决”。</p>
+<p>　　虽然新的物业公司已经接手小区物业工作，但老物业公司遗留下来的业主私改乱建以及暂时没有合适的办公室等问题，给新物业公司开展工作带来很大不便，导致小区业主本应享受的物业服务短期内很难改善。</p>
+<p><strong>　　金融街项目屡遭维权</strong></p>
+<p>　　物业管理作为住宅销售的重要配套，以往并不被房企重视，物业管理水品差、服务意识弱，成为业主维权的重灾区。如今，在房地产行业进入“白银时代”的背景下，众多房企开始重视物业管理公司。</p>
+<p>　　2014年6月，彩生活作为从母公司花样年分拆出去的物业管理平台获得成功后，众多房企开始加码物业管理领域。有的房企已经开始谋划物业管理分拆上市，如万科、碧桂园、保利、中海、富力等房企均计划要将物业管理业务分拆上市。其中，中海物业已于10月23日登陆港交所。</p>
+<p>　　在众多房企纷纷布局物业管理板块时，金融街物业却屡遭业主维权。事实上，金融街控股主要从事商业地产项目，近年来不断加持住宅物业，而其所开发的住宅项目中，有许多项目曾遭遇业主维权事件。比如今年金融街·融汇业主“车位维权事件”，金融街在天津、重庆的项目都遭遇过业主维权。</p>
+<p>　　针对此次事件，北京商报记者采访了金融街控股物业管理相关负责人，截至发稿前仍未得到回应。（北京商报记者 赖大臣 彭耀广）</p>
+</div>
+<!--文章操作-->
+<div id="articleEdit">
+<span class="tiyi1">
+<a href="javascript:void(0);" class="advise">【纠错】</a>
+<div class="tiyi01" id="advisebox01" style="display:none">
+<div>
+<iframe id="jc_link1" style="width:600px;height:350px; float:left;" border="0" name="search" marginwidth="0" framespacing="0" marginheight="0" frameborder="0" noresize="" scrolling="no" vspale="0"></iframe>
+</div>
+<div class="tiyi03">
+<div id="jc_close1" style="cursor:pointer"><img src="http://www.xinhuanet.com/images/syicon/space.gif" width="24" height="24" border="0" /></div>
+</div>
+</div>
+</span>
+<span class="editor">
+[责任编辑:
+廖佳
+]
+</span>
+<br />
+<a href="#" class="xwApp domPC"><i></i>新华炫闻客户端下载<img src="http://www.news.cn/2015/xilan/images/twoCode_xuanwen.jpg" /></a> 
+</div>
+<!--分享-->
+<div id="share" class="domMobile111">
+<div class="bdsharebuttonbox"><a href="#" class="bds_more domPC" data-cmd="more"></a><a href="#" class="bds_xinhua" data-cmd="xinhua" title="分享到新华微博"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+</div>
+<!--相关阅读-->  
+<div class="combox relatedNews clearfix" id="relatedNews">
+<div class="title">
+<h3 class="tit">相关稿件</h3>
+</div>
+<div class="content">
+
+</div>
+</div>
+<!--炫知-->
+<!--<div id="news_xuan_attr"></div>
+<div id="news_xuan_store"></div>
+<script type="text/javascript" src="http://tmisc.home.news.cn/cloudnews/res/dest/xinhuanet/firstReq.js?t=20150323.js"></script>-->
+<!--评论区-->
+<!--广告测试-->
+<div style="margin-bottom:10px;" class="domPC">
+<!--<script src="http://www.xinhuanet.com/test/ad/txtTonglan.js"></script>-->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|WzDt600t130&amp;db=xinhuanet&amp;border=0&amp;local=yes&amp;js=ie" charset="gbk"></script>
+</div>
+<div style="margin:10px auto" class="domPC">
+<iframe class="adIframeLazy" marginheight="0" marginwidth="0" frameborder="0" width="660" height="80" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_tl1&amp;db=xinhuanet&amp;border=0&amp;local=yes"></iframe>
+</div>
+<div class="ad_left1 domPC">
+<iframe class="adIframeLazy" marginheight="0" marginwidth="0" frameborder="0" width="660" height="140" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_tl2&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+<div class="pinglun domPC" id="pinglun">
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/jxhremote-min.js"></script>
+<link href="http://tmisc.home.news.cn/nc/css/comment.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">window.NcOpt = { mid:true, flt:true, preId:"title" };</script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/js/ncMain.js"></script>
+</div>
+<!--<div class="ad_left3 domPC">
+<div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57594.js"></script></div>
+</div>-->
+<div class="ad_left2 domPC">
+<div class="ad_left21  domPC" style="float:left; width:330px;">
+<iframe class="adIframeLazy" id="iframe_l_2" marginheight="0" marginwidth="0" frameborder="0" width="330" height="90" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_an1&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+<div class="ad_left22 domPC" style="float:left; width:330px;">
+<iframe class="adIframeLazy" id="iframe_l_3" marginheight="0" marginwidth="0" frameborder="0" width="330" height="90" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_an2&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="domMobile" id="mobile_ad2"></div>
+<div id="footer">
+<script type="text/javascript" src="http://www.xinhuanet.com/static/js/com_copyright.js"></script>
+</div>
+<div id="returnTop"></div>
+<div id="Xfuchaung" class="domPC"></div>
+<script type="text/javascript" src="http://www.xinhuanet.com/2015/xl2015/xlCommon20150914.js"></script> 
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<iframe allowtransparency="true" class="domPC silderIframe" width="265px" height="630" frameborder="0" scrolling="no" src="http://www.news.cn/SSI_rightSilderXL.htm"></iframe>
+<!--广告位检测-->
+<!--<div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57571.js"></script></div>-->
+<!--<script src="http://www.xinhuanet.com/test/ad/piaochuang.js"></script>-->
+<!--<div class="domPC"><script type='text/javascript' src='http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|WzPc226t280&db=xinhuanet&border=0&local=yes&js=ie' charset='gbk'></script></div>-->
+<div style="display:none"><div id="fwl">010030090900000000000000011109181283953661</div><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010030090900000000000000011109181283953661")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010030090900000000000000011109181283953661" border="0" /></noscript></div>   </body>
+</html>

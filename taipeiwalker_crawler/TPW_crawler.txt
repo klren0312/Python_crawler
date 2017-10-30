@@ -1,0 +1,1105 @@
+20151030_200445__Status: crawler_start
+20151030_200719__Status: crawler_start
+20151030_200739_LIVE_Status: crawler_complete
+20151030_200740_LIVE_Status: parsing_start
+20151030_200740_LIVE_Status: parsing_complete
+20151030_201033__Status: crawler_start
+20151030_201242_FOOD_Status: crawler_complete
+20151030_201244_FOOD_Status: parsing_start
+20151030_201245_FOOD_Status: parsing_complete
+20151030_201313__Status: crawler_start
+20151030_201332_ENTERTAINMENT_Status: crawler_complete
+20151030_201335_ENTERTAINMENT_Status: parsing_start
+20151030_201335_ENTERTAINMENT_Status: parsing_complete
+20151030_201413__Status: crawler_start
+20151030_201433_DIGITAL_Status: crawler_complete
+20151030_201436_DIGITAL_Status: parsing_start
+20151030_201436_DIGITAL_Status: parsing_complete
+20151030_201502__Status: crawler_start
+20151030_201524_ART_Status: crawler_complete
+20151030_201525_ART_Status: parsing_start
+20151030_201525_ART_Status: parsing_complete
+20151030_203256__Status: crawler_start
+20151030_210243__Status: crawler_start
+20151030_210302_TRAVEL_Status: crawler_complete
+20151030_210304_TRAVEL_Status: parsing_start
+20151030_210304_TRAVEL_Status: parsing_complete
+20151030_210345__Status: crawler_start
+20151030_214345__Status: crawler_start
+20151030_221125__Status: crawler_start
+20151030_221148_TRAVEL_Status: crawler_complete
+20151030_221149_TRAVEL_Status: parsing_start
+20151030_221149_TRAVEL_Status: parsing_complete
+20151030_221328__Status: crawler_start
+20151030_221453_TRAVEL_Status: crawler_complete
+20151030_221455_TRAVEL_Status: parsing_start
+20151030_221455_TRAVEL_Status: parsing_complete
+20151030_223742__Status: crawler_start
+20151030_223817__Status: crawler_start
+20151030_223908_TRAVEL_Status: crawler_complete
+20151030_223909_TRAVEL_Status: parsing_start
+20151030_223909_TRAVEL_Status: parsing_complete
+20151030_234201__Status: crawler_start
+20151030_234202_TRAVEL_Status: crawler_complete
+20151030_234203_TRAVEL_Status: parsing_start
+20151030_234203_TRAVEL_Status: parsing_complete
+20151030_234608__Status: crawler_start
+20151030_234609_TRAVEL_Status: crawler_complete
+20151030_234610_TRAVEL_Status: parsing_start
+20151030_234610_TRAVEL_Status: parsing_complete
+20151030_235055__Status: crawler_start
+20151030_235056_TRAVEL_Status: crawler_complete
+20151030_235059_TRAVEL_Status: parsing_start
+20151030_235059_TRAVEL_Status: parsing_complete
+20151030_235535__Status: crawler_start
+20151030_235536_TRAVEL_Status: crawler_complete
+20151030_235538_TRAVEL_Status: parsing_start
+20151030_235538_TRAVEL_Status: parsing_complete
+20151030_235843__Status: crawler_start
+20151030_235843_TRAVEL_Status: crawler_complete
+20151030_235844_TRAVEL_Status: parsing_start
+20151030_235844_p4-detail.php_id=2742.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2767.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2771.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2772.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2773.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2776.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2779.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2781.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2782.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2783.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2790.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2794.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2796.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2798.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2800.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2802.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2803.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2806.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2807.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2809.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2810.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2811.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2822.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2823.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2826.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2829.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2831.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2832.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2833.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2838.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2844.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2869.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2870.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2871.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2872.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2881.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2883.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2889.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2890.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_p4-detail.php_id=2892.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235844_TRAVEL_Status: parsing_complete
+20151030_235926__Status: crawler_start
+20151030_235926_TRAVEL_Status: crawler_complete
+20151030_235927_TRAVEL_Status: parsing_start
+20151030_235927_p4-detail.php_id=2742.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2767.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2771.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2772.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2773.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2776.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2779.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2781.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2782.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2783.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2790.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2794.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2796.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2798.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2800.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2802.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2803.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2806.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2807.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2809.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235927_p4-detail.php_id=2810.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2811.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2822.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2823.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2826.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2829.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2831.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2832.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2833.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2838.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2844.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2869.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2870.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2871.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2872.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2881.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2883.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2889.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2890.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_p4-detail.php_id=2892.txt_Status: tpw instance has no attribute 'parseContent'
+20151030_235928_TRAVEL_Status: parsing_complete
+20151031_000143__Status: crawler_start
+20151031_000144_TRAVEL_Status: crawler_complete
+20151031_000147_TRAVEL_Status: parsing_start
+20151031_000147_TRAVEL_Status: parsing_complete
+20151031_000239__Status: crawler_start
+20151031_000240_TRAVEL_Status: crawler_complete
+20151031_000243_TRAVEL_Status: parsing_start
+20151031_000244_TRAVEL_Status: parsing_complete
+20151031_000320__Status: crawler_start
+20151031_000320_TRAVEL_Status: crawler_complete
+20151031_000321_TRAVEL_Status: parsing_start
+20151031_000321_TRAVEL_Status: parsing_complete
+20151031_000352__Status: crawler_start
+20151031_000352_TRAVEL_Status: crawler_complete
+20151031_000354_TRAVEL_Status: parsing_start
+20151031_000355_TRAVEL_Status: parsing_complete
+20151031_000457__Status: crawler_start
+20151031_000459_TRAVEL_Status: crawler_complete
+20151031_000501_TRAVEL_Status: parsing_start
+20151031_000501_TRAVEL_Status: parsing_complete
+20151031_000513__Status: crawler_start
+20151031_000513_TRAVEL_Status: crawler_complete
+20151031_000514_TRAVEL_Status: parsing_start
+20151031_000515_TRAVEL_Status: parsing_complete
+20151031_000545__Status: crawler_start
+20151031_000546_TRAVEL_Status: crawler_complete
+20151031_000547_TRAVEL_Status: parsing_start
+20151031_000547_TRAVEL_Status: parsing_complete
+20151031_000559__Status: crawler_start
+20151031_000600_TRAVEL_Status: crawler_complete
+20151031_000602_TRAVEL_Status: parsing_start
+20151031_000602_TRAVEL_Status: parsing_complete
+20151031_001256__Status: crawler_start
+20151031_001257_TRAVEL_Status: crawler_complete
+20151031_001259_TRAVEL_Status: parsing_start
+20151031_001259_p4-detail.php_id=2742.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2767.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2771.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2772.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2773.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2776.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2779.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2781.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2782.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2783.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2790.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2794.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2796.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2798.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2800.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2802.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2803.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2806.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2807.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2809.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2810.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2811.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2822.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2823.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2826.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2829.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2831.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2832.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2833.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2838.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2844.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2869.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2870.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2871.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2872.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2881.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2883.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2889.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2890.txt_Status: unknown encoding: cp65001
+20151031_001259_p4-detail.php_id=2892.txt_Status: unknown encoding: cp65001
+20151031_001259_TRAVEL_Status: parsing_complete
+20151031_001404__Status: crawler_start
+20151031_001404_TRAVEL_Status: crawler_complete
+20151031_001406_TRAVEL_Status: parsing_start
+20151031_001407_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory
+20151031_001407_p4-detail.php_id=2767.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2771.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2772.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2773.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2776.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2779.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2781.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2782.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2783.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2790.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2794.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2796.txt_Status: [Errno 0] Error
+20151031_001407_p4-detail.php_id=2798.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2800.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2802.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2803.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2806.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2807.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2809.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2810.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2811.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2822.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2823.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2826.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2829.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2831.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2832.txt_Status: [Errno 0] Error
+20151031_001408_p4-detail.php_id=2833.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2838.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2844.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2869.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2870.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2871.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2872.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2881.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2883.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2889.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2890.txt_Status: [Errno 0] Error
+20151031_001409_p4-detail.php_id=2892.txt_Status: [Errno 0] Error
+20151031_001409_TRAVEL_Status: parsing_complete
+20151031_001440__Status: crawler_start
+20151031_001441_TRAVEL_Status: crawler_complete
+20151031_001443_TRAVEL_Status: parsing_start
+20151031_001443_TRAVEL_Status: parsing_complete
+20151031_171135_TRAVEL_Status: parsing_start
+20151031_171136_TRAVEL_Status: parsing_complete
+20151031_171152_TRAVEL_Status: parsing_start
+20151031_174913_TRAVEL_Status: parsing_start
+20151031_175026_TRAVEL_Status: parsing_start
+20151031_175705_TRAVEL_Status: parsing_start
+20151031_175705_p4-detail.php_id=2742.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2767.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2771.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2772.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2773.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2776.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2779.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2781.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2782.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2783.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2790.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2794.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2796.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2798.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2800.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2802.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2803.txt_Status: 'list' object has no attribute 'replace'
+20151031_175705_p4-detail.php_id=2806.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2807.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2809.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2810.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2811.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2822.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2823.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2826.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2829.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2831.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2832.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2833.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2838.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2844.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2869.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2870.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2871.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2872.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2881.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2883.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2889.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2890.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_p4-detail.php_id=2892.txt_Status: 'list' object has no attribute 'replace'
+20151031_175706_TRAVEL_Status: parsing_complete
+20151031_180211_TRAVEL_Status: parsing_start
+20151031_180211_p4-detail.php_id=2742.txt_Status: 'list' object has no attribute 'replace'
+20151031_180211_p4-detail.php_id=2767.txt_Status: 'list' object has no attribute 'replace'
+20151031_180211_p4-detail.php_id=2771.txt_Status: 'list' object has no attribute 'replace'
+20151031_180211_p4-detail.php_id=2772.txt_Status: 'list' object has no attribute 'replace'
+20151031_180211_p4-detail.php_id=2773.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2776.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2779.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2781.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2782.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2783.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2790.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2794.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2796.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2798.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2800.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2802.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2803.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2806.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2807.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2809.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2810.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2811.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2822.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2823.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2826.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2829.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2831.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2832.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2833.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2838.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2844.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2869.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2870.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2871.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2872.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2881.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2883.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2889.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2890.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_p4-detail.php_id=2892.txt_Status: 'list' object has no attribute 'replace'
+20151031_180212_TRAVEL_Status: parsing_complete
+20151031_180223_TRAVEL_Status: parsing_start
+20151031_180223_TRAVEL_Status: parsing_complete
+20151031_180509_TRAVEL_Status: parsing_start
+20151031_180509_p4-detail.php_id=2742.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2767.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2771.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2772.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2773.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2776.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2779.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2781.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2782.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2783.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2790.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2794.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2796.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2798.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2800.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2802.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2803.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2806.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2807.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2809.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2810.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2811.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2822.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2823.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2826.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2829.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2831.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2832.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2833.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2838.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2844.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2869.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2870.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2871.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2872.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2881.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2883.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2889.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2890.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_p4-detail.php_id=2892.txt_Status: 'list' object has no attribute 'encode'
+20151031_180509_TRAVEL_Status: parsing_complete
+20151031_180548_TRAVEL_Status: parsing_start
+20151031_180548_p4-detail.php_id=2742.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2767.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2771.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2772.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2773.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2776.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2779.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2781.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2782.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2783.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2790.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2794.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2796.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2798.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2800.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2802.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2803.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2806.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2807.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2809.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2810.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2811.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2822.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2823.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2826.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2829.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2831.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2832.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2833.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2838.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2844.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2869.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2870.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2871.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2872.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2881.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2883.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2889.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2890.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_p4-detail.php_id=2892.txt_Status: 'list' object has no attribute 'text'
+20151031_180548_TRAVEL_Status: parsing_complete
+20151031_180916_TRAVEL_Status: parsing_start
+20151031_180916_TRAVEL_Status: parsing_complete
+20151031_181418_TRAVEL_Status: parsing_start
+20151031_181418_TRAVEL_Status: parsing_complete
+20151031_181650_TRAVEL_Status: parsing_start
+20151031_181650_TRAVEL_Status: parsing_complete
+20151031_181849_TRAVEL_Status: parsing_start
+20151031_181849_TRAVEL_Status: parsing_complete
+20151031_182114_TRAVEL_Status: parsing_start
+20151031_182114_TRAVEL_Status: parsing_complete
+20151031_182209_TRAVEL_Status: parsing_start
+20151031_182209_TRAVEL_Status: parsing_complete
+20151031_183931_TRAVEL_Status: parsing_start
+20151031_183932_TRAVEL_Status: parsing_complete
+20151031_184015_TRAVEL_Status: parsing_start
+20151031_184015_TRAVEL_Status: parsing_complete
+20151031_184158_TRAVEL_Status: parsing_start
+20151031_184158_TRAVEL_Status: parsing_complete
+20151031_184317_TRAVEL_Status: parsing_start
+20151031_184318_TRAVEL_Status: parsing_complete
+20151031_184414__Status: crawler_start
+20151031_184539_TRAVEL_Status: crawler_complete
+20151031_184540_TRAVEL_Status: parsing_start
+20151031_184541_TRAVEL_Status: parsing_complete
+20151031_190838_TRAVEL_Status: parsing_start
+20151031_190900_TRAVEL_Status: parsing_start
+20151031_190900_TRAVEL_Status: parsing_complete
+20151101_232341_TRAVEL_Status: parsing_start
+20151101_232341_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151101_232341_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151101_232341_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151101_232341_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151101_232341_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151101_232341_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151101_232341_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151101_232341_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151101_232341_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151101_232341_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151101_232341_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151101_232341_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151101_232341_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151101_232341_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151101_232341_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151101_232341_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151101_232341_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151101_232341_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151101_232341_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151101_232341_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151101_232341_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151101_232341_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151101_232341_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151101_232341_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151101_232341_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151101_232341_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151101_232341_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151101_232341_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151101_232341_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151101_232341_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151101_232341_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151101_232341_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151101_232341_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151101_232341_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151101_232341_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151101_232341_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151101_232341_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151101_232341_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151101_232341_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151101_232341_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151101_232341_TRAVEL_Status: parsing_complete
+20151102_002930_TRAVEL_Status: parsing_start
+20151102_002930_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151102_002930_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151102_002930_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151102_002930_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151102_002930_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151102_002930_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151102_002930_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151102_002930_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151102_002930_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151102_002930_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151102_002930_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151102_002930_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151102_002930_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151102_002930_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151102_002930_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151102_002930_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151102_002930_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151102_002930_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151102_002930_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151102_002930_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151102_002930_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151102_002930_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151102_002930_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151102_002930_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151102_002930_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151102_002930_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151102_002930_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151102_002930_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151102_002930_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151102_002930_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151102_002930_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151102_002930_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151102_002930_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151102_002930_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151102_002930_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151102_002930_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151102_002930_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151102_002930_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151102_002930_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151102_002930_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151102_002930_TRAVEL_Status: parsing_complete
+20151102_002944_TRAVEL_Status: parsing_start
+20151102_002944_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151102_002944_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151102_002944_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151102_002944_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151102_002944_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151102_002944_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151102_002944_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151102_002944_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151102_002944_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151102_002944_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151102_002944_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151102_002944_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151102_002944_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151102_002944_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151102_002944_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151102_002944_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151102_002944_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151102_002944_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151102_002944_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151102_002944_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151102_002944_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151102_002944_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151102_002944_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151102_002944_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151102_002944_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151102_002944_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151102_002944_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151102_002944_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151102_002944_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151102_002944_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151102_002944_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151102_002944_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151102_002944_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151102_002944_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151102_002944_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151102_002944_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151102_002944_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151102_002944_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151102_002944_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151102_002944_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151102_002944_TRAVEL_Status: parsing_complete
+20151102_003041_TRAVEL_Status: parsing_start
+20151102_003041_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151102_003041_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151102_003041_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151102_003041_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151102_003041_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151102_003041_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151102_003041_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151102_003041_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151102_003041_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151102_003041_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151102_003041_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151102_003041_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151102_003041_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151102_003041_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151102_003041_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151102_003041_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151102_003041_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151102_003041_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151102_003041_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151102_003041_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151102_003041_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151102_003041_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151102_003041_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151102_003041_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151102_003041_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151102_003041_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151102_003041_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151102_003041_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151102_003041_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151102_003041_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151102_003041_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151102_003041_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151102_003041_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151102_003041_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151102_003041_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151102_003041_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151102_003041_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151102_003041_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151102_003041_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151102_003041_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151102_003041_TRAVEL_Status: parsing_complete
+20151102_003056_TRAVEL_Status: parsing_start
+20151102_003056_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151102_003056_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151102_003056_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151102_003056_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151102_003056_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151102_003056_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151102_003056_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151102_003056_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151102_003056_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151102_003056_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151102_003056_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151102_003056_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151102_003056_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151102_003056_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151102_003056_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151102_003056_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151102_003056_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151102_003056_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151102_003056_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151102_003056_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151102_003056_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151102_003056_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151102_003056_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151102_003056_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151102_003056_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151102_003056_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151102_003056_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151102_003056_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151102_003056_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151102_003056_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151102_003056_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151102_003056_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151102_003056_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151102_003056_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151102_003056_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151102_003056_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151102_003056_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151102_003056_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151102_003056_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151102_003056_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151102_003056_TRAVEL_Status: parsing_complete
+20151102_003112__Status: crawler_start
+20151102_003113_TRAVEL_Status: crawler_complete
+20151102_003158_TRAVEL_Status: parsing_start
+20151102_003158_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151102_003158_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151102_003158_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151102_003158_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151102_003158_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151102_003158_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151102_003158_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151102_003158_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151102_003158_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151102_003158_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151102_003158_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151102_003158_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151102_003158_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151102_003158_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151102_003158_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151102_003158_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151102_003158_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151102_003158_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151102_003158_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151102_003158_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151102_003158_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151102_003158_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151102_003158_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151102_003158_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151102_003158_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151102_003158_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151102_003158_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151102_003158_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151102_003158_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151102_003158_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151102_003158_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151102_003158_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151102_003158_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151102_003158_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151102_003158_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151102_003158_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151102_003158_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151102_003158_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151102_003158_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151102_003158_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151102_003158_TRAVEL_Status: parsing_complete
+20151102_003345_TRAVEL_Status: parsing_start
+20151102_003345_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151102_003345_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151102_003345_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151102_003345_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151102_003345_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151102_003345_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151102_003345_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151102_003345_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151102_003345_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151102_003345_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151102_003345_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151102_003345_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151102_003345_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151102_003345_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151102_003345_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151102_003345_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151102_003345_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151102_003345_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151102_003345_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151102_003345_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151102_003345_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151102_003345_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151102_003345_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151102_003345_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151102_003345_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151102_003345_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151102_003345_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151102_003345_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151102_003345_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151102_003345_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151102_003345_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151102_003345_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151102_003345_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151102_003345_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151102_003345_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151102_003345_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151102_003345_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151102_003345_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151102_003345_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151102_003345_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151102_003345_TRAVEL_Status: parsing_complete
+20151102_201007_TRAVEL_Status: parsing_start
+20151102_201008_TRAVEL_Status: parsing_complete
+20151102_201105_TRAVEL_Status: parsing_start
+20151102_201105_TRAVEL_Status: parsing_complete
+20151102_201242_TRAVEL_Status: parsing_start
+20151102_201242_p4-detail.php_id=2742.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2767.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2771.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2772.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2773.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2776.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2779.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2781.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2782.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2783.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2790.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2794.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2796.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2798.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2800.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2802.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201242_p4-detail.php_id=2803.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2806.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2807.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2809.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2810.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2811.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2822.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2823.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2826.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2829.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2831.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2832.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2833.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2838.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2844.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2869.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2870.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2871.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2872.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2881.txt_Status: '_ElementStringResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2883.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2889.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2890.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_p4-detail.php_id=2892.txt_Status: 'lxml.etree._ElementUnicodeResult' object has no attribute 'xpath'
+20151102_201243_TRAVEL_Status: parsing_complete
+20151102_201255_TRAVEL_Status: parsing_start
+20151102_201255_TRAVEL_Status: parsing_complete
+20151109_194549_TRAVEL_Status: parsing_start
+20151109_194549_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151109_194549_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151109_194549_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151109_194549_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151109_194549_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151109_194549_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151109_194549_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151109_194549_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151109_194549_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151109_194549_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151109_194549_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151109_194549_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151109_194549_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151109_194549_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151109_194549_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151109_194549_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151109_194549_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151109_194549_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151109_194549_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151109_194549_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151109_194549_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151109_194549_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151109_194549_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151109_194549_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151109_194549_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151109_194549_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151109_194549_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151109_194549_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151109_194549_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151109_194549_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151109_194549_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151109_194549_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151109_194549_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151109_194549_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151109_194549_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151109_194549_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151109_194549_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151109_194549_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151109_194549_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151109_194549_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151109_194549_TRAVEL_Status: parsing_complete
+20151109_194616_TRAVEL_Status: parsing_start
+20151109_194616_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151109_194616_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151109_194616_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151109_194616_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151109_194616_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151109_194616_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151109_194616_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151109_194616_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151109_194616_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151109_194616_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151109_194616_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151109_194616_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151109_194616_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151109_194616_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151109_194616_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151109_194616_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151109_194616_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151109_194616_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151109_194616_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151109_194616_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151109_194616_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151109_194616_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151109_194616_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151109_194616_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151109_194616_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151109_194616_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151109_194616_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151109_194616_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151109_194616_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151109_194616_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151109_194616_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151109_194616_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151109_194616_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151109_194616_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151109_194616_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151109_194616_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151109_194616_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151109_194616_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151109_194616_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151109_194616_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151109_194616_TRAVEL_Status: parsing_complete
+20151109_194629__Status: crawler_start
+20151110_024812__Status: crawler_start
+20151110_024842__Status: crawler_start
+20151110_025048__Status: crawler_start
+20151110_025103_TRAVEL_Status: crawler_complete
+20151110_025103_TRAVEL_Status: parsing_start
+20151110_025103_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151110_025103_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151110_025103_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151110_025103_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151110_025103_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151110_025103_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151110_025103_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151110_025103_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151110_025103_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151110_025103_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151110_025103_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151110_025103_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151110_025103_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151110_025103_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151110_025103_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151110_025103_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151110_025103_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151110_025103_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151110_025103_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151110_025103_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151110_025103_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151110_025103_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151110_025103_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151110_025103_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151110_025103_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151110_025103_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151110_025103_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151110_025103_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151110_025103_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151110_025103_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151110_025103_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151110_025103_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151110_025103_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151110_025103_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151110_025103_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151110_025103_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151110_025103_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151110_025103_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151110_025103_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151110_025103_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151110_025103_p4-detail.php_id=2893.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2893.txt'
+20151110_025103_p4-detail.php_id=2897.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2897.txt'
+20151110_025103_p4-detail.php_id=2898.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2898.txt'
+20151110_025103_p4-detail.php_id=2899.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2899.txt'
+20151110_025103_p4-detail.php_id=2900.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2900.txt'
+20151110_025103_TRAVEL_Status: parsing_complete
+20151110_025138__Status: crawler_start
+20151110_025142_TRAVEL_Status: crawler_complete
+20151110_025142_TRAVEL_Status: parsing_start
+20151110_025142_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151110_025142_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151110_025142_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151110_025142_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151110_025142_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151110_025142_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151110_025142_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151110_025142_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151110_025142_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151110_025142_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151110_025142_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151110_025142_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151110_025142_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151110_025142_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151110_025142_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151110_025142_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151110_025142_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151110_025142_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151110_025142_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151110_025142_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151110_025142_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151110_025142_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151110_025142_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151110_025142_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151110_025142_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151110_025142_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151110_025142_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151110_025142_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151110_025142_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151110_025142_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151110_025142_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151110_025142_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151110_025142_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151110_025142_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151110_025142_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151110_025142_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151110_025142_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151110_025142_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151110_025142_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151110_025142_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151110_025142_p4-detail.php_id=2893.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2893.txt'
+20151110_025142_p4-detail.php_id=2897.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2897.txt'
+20151110_025142_p4-detail.php_id=2898.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2898.txt'
+20151110_025142_p4-detail.php_id=2899.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2899.txt'
+20151110_025142_p4-detail.php_id=2900.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2900.txt'
+20151110_025142_TRAVEL_Status: parsing_complete
+20151110_025210__Status: crawler_start
+20151110_025220_TRAVEL_Status: crawler_complete
+20151110_025220_TRAVEL_Status: parsing_start
+20151110_025220_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151110_025220_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151110_025220_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151110_025220_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151110_025220_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151110_025220_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151110_025220_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151110_025220_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151110_025220_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151110_025220_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151110_025220_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151110_025220_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151110_025220_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151110_025220_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151110_025220_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151110_025220_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151110_025220_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151110_025220_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151110_025220_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151110_025220_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151110_025220_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151110_025220_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151110_025220_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151110_025220_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151110_025220_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151110_025220_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151110_025220_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151110_025220_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151110_025220_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151110_025220_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151110_025220_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151110_025220_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151110_025220_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151110_025220_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151110_025220_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151110_025220_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151110_025220_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151110_025220_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151110_025220_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151110_025220_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151110_025220_p4-detail.php_id=2893.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2893.txt'
+20151110_025220_p4-detail.php_id=2897.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2897.txt'
+20151110_025220_p4-detail.php_id=2898.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2898.txt'
+20151110_025220_p4-detail.php_id=2899.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2899.txt'
+20151110_025220_p4-detail.php_id=2900.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2900.txt'
+20151110_025220_TRAVEL_Status: parsing_complete
+20151110_025312__Status: crawler_start
+20151110_025316_TRAVEL_Status: crawler_complete
+20151110_025316_TRAVEL_Status: parsing_start
+20151110_025316_p4-detail.php_id=2742.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2742.txt'
+20151110_025316_p4-detail.php_id=2767.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2767.txt'
+20151110_025316_p4-detail.php_id=2771.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2771.txt'
+20151110_025316_p4-detail.php_id=2772.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2772.txt'
+20151110_025316_p4-detail.php_id=2773.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2773.txt'
+20151110_025316_p4-detail.php_id=2776.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2776.txt'
+20151110_025316_p4-detail.php_id=2779.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2779.txt'
+20151110_025316_p4-detail.php_id=2781.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2781.txt'
+20151110_025316_p4-detail.php_id=2782.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2782.txt'
+20151110_025316_p4-detail.php_id=2783.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2783.txt'
+20151110_025316_p4-detail.php_id=2790.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2790.txt'
+20151110_025316_p4-detail.php_id=2794.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2794.txt'
+20151110_025316_p4-detail.php_id=2796.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2796.txt'
+20151110_025316_p4-detail.php_id=2798.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2798.txt'
+20151110_025316_p4-detail.php_id=2800.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2800.txt'
+20151110_025316_p4-detail.php_id=2802.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2802.txt'
+20151110_025316_p4-detail.php_id=2803.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2803.txt'
+20151110_025316_p4-detail.php_id=2806.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2806.txt'
+20151110_025316_p4-detail.php_id=2807.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2807.txt'
+20151110_025316_p4-detail.php_id=2809.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2809.txt'
+20151110_025316_p4-detail.php_id=2810.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2810.txt'
+20151110_025316_p4-detail.php_id=2811.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2811.txt'
+20151110_025316_p4-detail.php_id=2822.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2822.txt'
+20151110_025316_p4-detail.php_id=2823.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2823.txt'
+20151110_025316_p4-detail.php_id=2826.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2826.txt'
+20151110_025316_p4-detail.php_id=2829.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2829.txt'
+20151110_025316_p4-detail.php_id=2831.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2831.txt'
+20151110_025316_p4-detail.php_id=2832.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2832.txt'
+20151110_025316_p4-detail.php_id=2833.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2833.txt'
+20151110_025316_p4-detail.php_id=2838.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2838.txt'
+20151110_025316_p4-detail.php_id=2844.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2844.txt'
+20151110_025316_p4-detail.php_id=2869.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2869.txt'
+20151110_025316_p4-detail.php_id=2870.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2870.txt'
+20151110_025316_p4-detail.php_id=2871.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2871.txt'
+20151110_025316_p4-detail.php_id=2872.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2872.txt'
+20151110_025316_p4-detail.php_id=2881.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2881.txt'
+20151110_025316_p4-detail.php_id=2883.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2883.txt'
+20151110_025316_p4-detail.php_id=2889.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2889.txt'
+20151110_025316_p4-detail.php_id=2890.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2890.txt'
+20151110_025316_p4-detail.php_id=2892.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2892.txt'
+20151110_025316_p4-detail.php_id=2893.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2893.txt'
+20151110_025316_p4-detail.php_id=2897.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2897.txt'
+20151110_025316_p4-detail.php_id=2898.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2898.txt'
+20151110_025316_p4-detail.php_id=2899.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2899.txt'
+20151110_025316_p4-detail.php_id=2900.txt_Status: [Errno 2] No such file or directory: 'C:/Users/User/Downloads/taipeiwalker_crawler/TRAVEL/page_content/p4-detail.php_id=2900.txt'
+20151110_025316_TRAVEL_Status: parsing_complete
+20151110_025416__Status: crawler_start
+20151110_025422_TRAVEL_Status: crawler_complete
+20151110_025422_TRAVEL_Status: parsing_start
+20151110_025602__Status: crawler_start
+20151110_025604_TRAVEL_Status: crawler_complete
+20151110_025604_TRAVEL_Status: parsing_start
+20151110_025605_TRAVEL_Status: parsing_complete

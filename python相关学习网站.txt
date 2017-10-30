@@ -1,0 +1,42 @@
+教材預先說明如下：
+1. 請同學可以先看相關影片，掌握基礎知識：http:
+//www.largitdata.com/course_list/8
+
+2. 之前貴校也有辦理過相關課程：http:
+//datasci.kktix.cc/events/pycrawler101-201510，也會希望同學有基本的
+Python & 網頁結構的概念
+所以可以請同學有空去看看這些資源，
+
+    *
+
+      如果您不熟悉 Python 的話 ...
+
+          o
+
+            可以從這裡開始：https://www.codecademy.com/en/tracks/python
+            動手學 Python
+
+          o
+
+            或是，習慣看影片學習的朋友，也可以從這邊開始：https:
+            //www.coursera.org/course/interactivepython1
+
+          o
+
+            或是，另一門 Python 的基礎課程(課程 final project 是自己寫爬
+            蟲 + 網站搜尋引擎)
+            https://www.udacity.com/course/intro-to-computer-science--cs101
+
+    *
+
+      如果您對 HTML 和 CSS 沒有基礎概念的話 ...
+
+          o
+
+            可以從這裡開始：http://www.codecademy.com/en/tracks/web 動手
+            學 HTML & CSS
+
+          o
+
+            或是習慣看影片學習的朋友，也可以從這邊開始：https:
+            //www.udacity.com/course/intro-to-html-and-css--ud304

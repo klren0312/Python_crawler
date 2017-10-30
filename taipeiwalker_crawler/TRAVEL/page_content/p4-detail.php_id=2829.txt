@@ -1,0 +1,448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<title>TaipeiWalker樂遊中台灣  1天來回～2天1夜</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="台中終年溫和的氣候，堪稱是最適合居住的樂活城市。從山林到海岸線，深具特色的自然景觀，加上近年文創園區、設計旅宿蓬勃發展，匯聚成令人驚豔的城市新亮點。" />
+<meta name="keywords" content="">
+<meta name="Robots" content="all">
+<!--FB讚用(在FB,滑過讚的項目會出現圖及文章名)-->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="樂遊中台灣  1天來回～2天1夜"/>
+<meta property="og:url" content="http://www.taipeiwalker.com.tw/p4-detail.php?id=2829" />
+<meta property="og:description" content="台中終年溫和的氣候，堪稱是最適合居住的樂活城市。從山林到海岸線，深具特色的自然景觀，加上近年文創園區、設計旅宿蓬勃發展，匯聚成令人驚豔的城市新亮點。" />
+<meta property="og:image" content="http://www.kadokawa.com.tw/Upload/walker_201509161502211.jpg"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/style-p4.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="pragma" content="no-cache">
+<script language="JavaScript" type="text/JavaScript" src="js/script.js"></script>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script> 
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" /> 
+<link href="css/sample_lightbox_layout.css" rel="stylesheet" type="text/css" /></head>
+
+<body  >
+  <div id="wrapper-bg">
+<div id="wrapper">
+<div class="menu">
+  <table width="950" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="3">
+        <table width="952" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="23%">&nbsp;</td>
+            <td width="48%" align="right">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="http://www.kadokawa.com.tw/" title="台灣角川KADOKAWA TAIWAN" target="windows"><img src="images/index/icon.jpg"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-rule" target="windows"><img src="images/index/icon1.jpg" alt="註冊REGISTER" border="0" /></a></td>
+                  <td><a href="_p0-login.php?keepThis=true&amp;TB_iframe=true&amp;width=350&amp;height=390" class="thickbox"><img src="images/index/icon2.jpg" alt="登入LOGIN"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-login" target="windows"><img src="images/index/icon3.jpg" alt="會員中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p13-service" target="windows"><img src="images/index/icon6.jpg" alt="客服中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p8-shoplist" target="windows"><img src="images/index/icon4.jpg" alt="購物車"  border="0" /></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="23%">
+                            <a href="index.php"><img src="http://www.kadokawa.com.tw/Upload/dblogo_201205241803341.jpg" border="0"  /></a>
+                          </td>
+            <td>
+              <!--<a href="javascript:;"><img src="images/pic/top-banner.jpg" border="0" /></a>  -->
+              <a href="chgLink.php?PKey=192946-il2R2ZFpjtNNTxG-uwhimnwZ8JU2iXXj8X2lB" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201510261657421.jpg" border="0" /></a>            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <div style="padding-top:10px; padding-bottom:10px;">
+  <div class="menu_area">
+  <a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a1','','images/menu/1s.jpg',1)"><img src="images/menu/1.jpg" name="a1" border="0" id="a1" /></a>
+  <a href="p1.php?date=2015" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2','','images/menu/2s.jpg',1)"><img src="images/menu/2.jpg" name="a2"  alt="封面故事"border="0" id="a2" /></a>
+  <a href="p2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a3','','images/menu/3s.jpg',1)"><img src="images/menu/3.jpg" name="a3"  alt="活動報報"  border="0" id="a3" /></a>
+  <a href="p3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a4','','images/menu/4s.jpg',1)"><img src="images/menu/4.jpg" alt="電影試映室" name="a4"  border="0" id="a4" /></a>
+<a href="p4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a5','','images/menu/5s.jpg',1)"><img src="images/menu/5.jpg" alt="Walker情報" name="a5"  border="0" id="a5" /></a>
+<a href="p5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a6','','images/menu/6s.jpg',1)"><img src="images/menu/6.jpg" name="a6" alt="雜誌&書籍"   border="0" id="a6" /></a>
+  <a href="p6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a7','','images/menu/7s.jpg',1)"><img src="images/menu/7.jpg" name="a7" alt="Digital Reading 數位閱讀"  border="0" id="a7" /></a>
+<a href="http://www.walkerland.com.tw/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a8','','images/menu/8s.jpg',1)"><img src="images/menu/8.jpg" name="a8" alt="WalkerLand"  border="0" id="a8" /></a> 
+<a href="http://www.jwalker.jp/"  target="_blank"  onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a9','','images/menu/9s.jpg',1)"><img src="images/menu/9.jpg" name="a9" alt="PINTA小刺郎"  border="0" id="a9" /></a>
+ <a class="right" href="p9.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a10','','images/menu/10s.jpg',1)"><img src="images/menu/10.jpg" name="a10"  alt="關於角川"  border="0" id="a10" /></a>
+  <!--menu_area end-->
+  </div>
+  </div>
+  <!--menu-->
+    <table width="1000" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="20" nowrap="nowrap">&nbsp;</td>
+      <td width="300" nowrap="nowrap">
+        <div style="float:left;padding-top:12px;"><b class="red">輸入關鍵字：</b></div>
+        <div id="cse-search-form" style="width:220px;float:left;">Loading</div>
+        <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+        <script type="text/javascript"> 
+  google.load('search', '1', {language : 'zh-TW', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '009280701241221109559:1s1grz73mb0', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://www.taipeiwalker.com.tw/p0-search.php");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+        <style type="text/css">
+/* td.gsc-input{  width:80px;}*/
+input[type="search"] {
+  -webkit-appearance: textfield;
+}
+
+  input.gsc-input {
+	/*width:80px;*/
+	  font-size:12px;
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+    border-color: #BBBBBB;
+  }
+  input.gsc-search-button {
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+	 height:24px;
+	  width:40px;
+	  font-size:12px;
+    border-color: #cc0000;
+    background-color: #cc0000;
+  }
+</style>
+      </td>
+      <td align="center" valign="middle"><b class="red">熱門關鍵字：</b>
+          <a href="p0-search.php?q=旅遊">旅遊</a>　<a href="p0-search.php?q=美食">美食</a>　<a href="p0-search.php?q=日本上網">日本上網</a>　<a href="p0-search.php?q=超夯美食">超夯美食</a>　<a href="p0-search.php?q=16周年慶">16周年慶</a>　      </td>
+      <td width="200" align="right" valign="middle"><a href="p0_notice.php?link_url=p7-mem-login"><img src="images/index/icon8.jpg" width="101" height="19" hspace="10" border="0" /></a><a href="p10-RSS.php"><img src="images/index/icon-rss.jpg" width="21" height="21" border="0" />&nbsp; </a><a href="http://www.facebook.com/TaipeiWalker.KADOKAWA" target="_blank"><img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" target="_blank" />&nbsp; </a><a href="http://www.plurk.com/TaipeiWalker" target="_blank"><img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp; </a></td>
+    </tr>
+  </table>
+  </div>
+<div class="container">
+  
+﻿<div class="page-index">
+  <!--page-index-->
+  <div class="side_area">
+    <div class="side_title1">
+      <span class="date-top-blak">New</span> <span class="date-top-red">Walker</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=02f2msY5I0hq_gSHROSPLj1ri5xjv15I4dGrY8TVGStg">
+      <div class="pic"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510310048301.jpg"  border="0"  width="100" height="144"/></div>
+      <div class="word">
+        <div class="title">
+          <p>Taipei Walker 223期</p>
+        </div>
+        <div class="subtitle">5大溫泉區  享受泡湯好時光</div>
+        <div class="txt">作者 : Taipei Walker編輯部<br />
+          出版日期 :
+           2015/11/01<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            109</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+  <div class="side_area">
+    <div class="side_title2">
+      <span class="date-top-blak">New</span> <span class="date-top-blue">Book</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=165dTr_MFn9dBglbfDEIZoYYxmxnbgV6AeoqlyLThBfv">
+      <div class="pic2"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510211637531.jpg"  border="0" width="100" height="144" /></div>
+      <div class="word">
+        <div class="title">
+          <p>曼谷新旅行</p>
+        </div>
+        <div class="subtitle">Because it is Bangkok</div>
+        <div class="txt">作者 : 勞倫斯<br />
+          出版日期 :
+           2015/10/24<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            272</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+        <div class="side_tree">
+    <div class="side_tree_title">Walker情報分類樹狀</div>
+        <div class="side_tree_set_on"><a href="p4.php?seriesa=1&amp;page=1">
+      旅遊      (
+      471      )</a>
+        <div class="side_tree_sub"><a href="p4.php?seriesa=1&seriesb=1&page=1" class="on">國內旅遊(126)</a><a href="p4.php?seriesa=1&seriesb=2&page=1" class="">國外旅遊(35)</a><a href="p4.php?seriesa=1&seriesb=21&page=1" class="">Walker(183)</a><a href="p4.php?seriesa=1&seriesb=38&page=1" class="">來去日本(127)</a></div>    </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=2&amp;page=1">
+      美食      (
+      838      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=3&amp;page=1">
+      生活      (
+      429      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=5&amp;page=1">
+      影視      (
+      610      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=6&amp;page=1">
+      數位      (
+      140      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=4&amp;page=1">
+      藝文活動      (
+      204      )</a>
+            </div>
+      </div>
+    <a href="chgLink.php?PKey=05faBLD7mWVV4k5gDvLix4wLzUyAnxWenR10ybRCbG3-" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201510191646441.gif" border="0" /></a><a href="chgLink.php?PKey=cdf4T9OWO1xepJbOUcTxw8_j5wU2CIFU7vNx8soRJ-C0" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201504221422491.gif" border="0" /></a><a href="chgLink.php?PKey=f1ba2Y4CSIFdwcoYvTkLaMmjmfte5CBKxmJPtg4t5gHk" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201508031629041.jpg" border="0" /></a>    <div class="side_news">
+    <p><img src="images/index/index-title-p2.jpg" width="320" height="25" /></p>
+    <div class="side_news_word">
+            <a href="_p2-detail.php?id=1470&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 11月號電影試映會店家明細...
+      </a>
+            <a href="_p2-detail.php?id=1469&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 9月號讀者禮物中獎名單...
+      </a>
+            <a href="_p2-detail.php?id=1467&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號好康試食－「湯太郎蕎麥麵（富錦店）...
+      </a>
+            <a href="_p2-detail.php?id=1466&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「衝出康普頓」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1455&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「好康試食：KG牛排小酒館」中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1457&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「獵巫行動：大滅絕」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1454&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「腥紅山莊」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1453&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「無處可逃」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1446&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「潘恩：航向夢幻島」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1441&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 10月號電影試映會店家明細...
+      </a>
+          </div>
+    <p align="right"> <a href="p2.php"><img src="images/icon.jpg" width="13" height="11" border="0" align="absmiddle" />more&nbsp;</a></p>
+    <!--news-index end-->
+  </div>
+      <a href="chgLink.php?PKey=d1defVPj3X7funiQodEQbiPIsz9atCV1WvRoW5Zixxk" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201405231513521.gif" border="0" /></a><a href="chgLink.php?PKey=15faxA7phl20K6SWzEFkeQ1f8Cvr8oHmnAkonkZYYPMT" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201412182334141.gif" border="0" /></a><a href="chgLink.php?PKey=8f053RTV9-15kfLesv0KSxomlRqgnf3MTKSMlSWwwn6p" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201501141413221.gif" border="0" /></a><a href="chgLink.php?PKey=3a402RYmQ-hayz46URKZwkgGarxvgbcAIVTozAUbQYU" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201405271605421.gif" border="0" /></a><a href="chgLink.php?PKey=42c9kYfYbF2odY4sGEyY4fHFu7_-9HtD73QU2sGC-iM" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201403071647251.jpg" border="0" /></a>  <div class="side_fb">
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTaipeiWalker.KADOKAWA&amp;width=263&amp;height=410&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=true" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:263px; height:450px;" allowtransparency="true"></iframe>
+    <!--side_fb-->
+  </div>
+  <!--page-index end-->
+</div>
+<div class="inside1">
+<div class="nav"><a href='index.php'><img src='images/icon-home.gif' border='0'>&nbsp;首頁</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;<a href=p4.php?seriesa=1&page=1>Walker情報</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;旅遊</div>
+    <div class="title_area">
+<div class="subtitle_l"><img src="images/icon-p4.png"  align="absmiddle" />&nbsp; Walker情報</div>
+<div class="subtitle_r">旅遊</div>
+</div>
+<div class="p4subject_area">
+<div class="p4title">樂遊中台灣  1天來回～2天1夜</div>
+<div class="p4time">發表日期：2015/09/16　</div>
+</div>
+<div class="p4detail_share">
+
+<a href="javascript: void(window.open('http://www.facebook.com/share.php?u='.concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2829')) ));" target="_blank">
+	<img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" />&nbsp;</a>
+
+<a href="javascript: void(window.open('http://www.plurk.com/?qualifier=shares&status=' .concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2829')) .concat(' ') .concat('&#40;') .concat(encodeURIComponent(document.title)) .concat('&#41;')));" target="_blank">
+	<img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp;</a>
+</div>
+<div class="p4detail_area">
+<p style="text-align: center;"><span style="font-size: medium;"><strong><span style="color: rgb(51, 153, 102);"><span style="font-family: 微軟正黑體, sans-serif;">台中終年溫和的氣候，堪稱是最適合居住的樂活城市。</span><br />
+</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong><span style="color: rgb(51, 153, 102);"><span style="font-family: 微軟正黑體, sans-serif;">從山林到海岸線，深具特色的自然景觀，</span></span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong><span style="color: rgb(51, 153, 102);"><span style="font-family: 微軟正黑體, sans-serif;">加上近年文創園區、設計旅宿蓬勃發展，</span><span style="font-family: 微軟正黑體, sans-serif;">匯聚成令人驚豔的城市新亮點。</span>&nbsp;</span></strong></span></p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: center;"><img src="http://www.kadokawa.com.tw//Upload/14423864731588928771.jpg" width="560" height="504" alt="" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<div><img src="http://www.kadokawa.com.tw//Upload/14423843081282271182.jpg" width="335" height="223" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/1442384324834153130.jpg" width="335" height="223" alt="" /></div>
+<div><img src="http://www.kadokawa.com.tw//Upload/14423847551057468109.jpg" width="335" height="224" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/1442384399661706737.jpg" width="335" height="224" alt="" /></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">北屯區的心之芳庭，是戀人們浪漫的幸福之地；</span></span><span style="font-family: 微軟正黑體, sans-serif; font-size: small;">北區的老宅變身為人文餐飲空間的小茶館。</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">西屯區的秋紅谷生態廣場、路思義教堂，以及西區的勤美術館、道禾六藝文化館，皆是近年的人氣景點。</span></span></div>
+</div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">南屯區大肚山的望高寮，景色開闊，是俯瞰台中市風景最好之處。</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">台中歌劇院、國立台中圖書館、宮原眼科、具有未來感的前衛建築設計，更成為台中最受矚目的話題新亮點。</span></span><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">有美味之都的台中，有學生最愛的逢甲夜市、東海夜市，還有老字號宵夜天堂的忠孝夜市，不論是異國名店，或奶油酥餅、芋頭冰、雞爪凍、米糕等小吃特產，融合傳統美味與創新口感的味蕾旅行，即刻出發！</span></span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;"><img src="http://www.kadokawa.com.tw//Upload/1442386434571350594.png" width="680" height="206" alt="" /></span></span></div>
+<div>&nbsp;</div>
+<p>&nbsp;</p>
+<hr />
+<div>&nbsp;</div>
+<div><b><span style="font-family: 微軟正黑體, sans-serif; color: white; background: blue;">西屯區</span><span style="background-color: rgb(255, 255, 255);"><span style="font-family: 微軟正黑體, sans-serif; color: white; background: blue;">&nbsp;&nbsp;</span></span></b><span style="font-size: medium;"><b><span style="font-family: 微軟正黑體, sans-serif; color: rgb(248, 148, 29);">秋紅谷生態廣場 &nbsp;</span></b><b><span style="font-family: 微軟正黑體, sans-serif; color: rgb(248, 148, 29);">藝文展覽提供民眾多樣休閒</span></b></span></div>
+<p>&nbsp;</p>
+<div><img src="http://www.kadokawa.com.tw//Upload/1442385414402945895.jpg" width="640" height="427" alt="" /></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">從大水坑變身成為城市綠山谷，被稱為「建築工程奇蹟」的秋紅谷，是台中市區近期最熱門旅遊景點。高低起伏的蜿蜒步道，圍繞著中央景觀池，將原本深達20公尺的坑洞，化為全台獨一無二的下凹式景觀公園，高地上百葉造型的展覽空間則不定期有藝文展覽展出。</span></span></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">DATA</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">地址：台中市西屯區台灣大道與朝富路口</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">交通：開車從中山高下台中交流道，走台12線右轉朝富路可抵。</span></span><span style="font-size: small;"><b>&nbsp;</b></span></div>
+<div>&nbsp;</div>
+<p>&nbsp;</p>
+<div><b><span style="font-family: 微軟正黑體, sans-serif; color: white; background: blue;">西屯區&nbsp;</span></b><span style="font-family: 微軟正黑體, sans-serif;"> </span><span style="font-size: medium;"><span style="font-family: 微軟正黑體, sans-serif;"><b><span style="color: rgb(247, 150, 70);">路思義教堂 &nbsp;</span></b></span><b><span style="font-family: 微軟正黑體, sans-serif; color: rgb(247, 150, 70);">教堂外觀宏偉 氛圍神聖</span></b></span></div>
+<p>&nbsp;</p>
+<div><img src="http://www.kadokawa.com.tw//Upload/1442385582682050105.jpg" width="400" height="553" alt="" /></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">出自於名師貝聿銘與陳其寬之手的路思義教堂，興建於</span></span><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">1963</span><span style="font-family: 微軟正黑體, sans-serif;">年底，是東海大學最具代表性的建築。建築採雙曲面的磚砌圓拱結構，線條極具前衛與現代感，而內部氛圍呈現出神聖安穩的感覺，兼具宗教莊嚴意涵與美感。教堂採固定時間開放，僅限公告時間內參觀。</span></span></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">DATA</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">地址：台中市西屯區路台灣大道四段1727號（東海大學內）</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">交通：開車從中山高下台中交流道，走台12線左轉約農路，再左轉力行路可抵。</span></span><span style="font-size: small;">&nbsp;</span></div>
+<div>&nbsp;</div>
+<p>&nbsp;</p>
+<div><b><span style="font-family: 微軟正黑體, sans-serif; color: white; background: blue;">西屯區&nbsp;</span></b><span style="font-size: medium;"><b><span style="font-family: 微軟正黑體, sans-serif; color: rgb(247, 150, 70);">逢甲夜市 &nbsp;</span></b><b><span style="font-family: 微軟正黑體, sans-serif; color: rgb(247, 150, 70);">學生最愛的平價好滋味！</span></b></span></div>
+<p>&nbsp;</p>
+<div><img src="http://www.kadokawa.com.tw//Upload/14423856271065509888.jpg" width="335" height="224" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/14423856451958416633.jpg" width="335" height="224" alt="" /></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">逢甲夜市為目前全台灣規模最大的夜市，範圍囊括福星路、逢甲路及文華路一帶，由於地理位置緊鄰學區，多元的小吃種類及平價美食遂成為逢甲夜市的最大特色。許多擁有超高人氣的新奇小吃更多是從此發跡，如黃金賊及豬寶盒、懶人蝦等，不僅名稱俏皮逗趣，口感也別具風味。而創始碳烤雞排、魚要醬吃則深受學生族群喜愛。</span></span></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">DATA</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">地址：台中市西屯區福星路</span><span style="font-family: 微軟正黑體, sans-serif;">、</span><span style="font-family: 微軟正黑體, sans-serif;">文華路</span><span style="font-family: 微軟正黑體, sans-serif;">、</span><span style="font-family: 微軟正黑體, sans-serif;">逢甲路</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">交通：開車從中山高下台中交流道</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">走台</span><span style="font-family: 微軟正黑體, sans-serif;">12</span><span style="font-family: 微軟正黑體, sans-serif;">線左轉黎明路三段</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">至上安路右轉再左轉逢甲路可抵</span><span style="font-family: 微軟正黑體, sans-serif;">。</span></span><span style="font-size: small;">&nbsp;</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;"><b><span style="font-family: 微軟正黑體, sans-serif; color: white; background: blue;">西區&nbsp;</span></b></span><span style="font-size: medium;"><span style="color: rgb(255, 102, 0);"><strong><span style="font-family: 微軟正黑體, sans-serif;">勤美術館 &nbsp;</span></strong></span><span style="color: rgb(255, 102, 0);"><strong><span style="font-family: 微軟正黑體, sans-serif;">台中在地深度藝特街區</span></strong></span></span></div>
+<div>&nbsp;</div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1442385704283088686.jpg" width="335" height="224" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/1442385717730690542.jpg" width="335" height="224" alt="" /></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">以城市街區和大台中為創作主體，勤美術館是全台首座文創街區博物館。草地上散落的「串門子村落」由11間鏡面材質隱形小屋組成，集結藝術家、設計師、創意市集品牌的創作。周邊白色玻璃屋內可見園花藝店、蛋糕店與設計師商店進駐，衍生出一座別具特色的露天美術館。</span></span></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">DATA</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">地址：台中市西區中港路一段257-2號</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">HP</span><span style="font-family: 微軟正黑體, sans-serif;">：</span></span><span style="font-family:&quot;微軟正黑體&quot;,&quot;sans-serif&quot;;"><a href="http://www.cmppj.org.tw"><span style="font-size: small;">www.cmppj.org.tw</span></a></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">交通：開車從中山高下台中交流道，走台12線右轉英才路，再右轉公益路循指標可抵。</span></span></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><b><span style="font-family: 微軟正黑體, sans-serif; color: white; background: blue;">西區&nbsp;</span></b><span style="font-family: 微軟正黑體, sans-serif;">道禾六藝文化館 &nbsp;不同光線下萬種風情</span></span></div>
+<div>&nbsp;</div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1442385877453934266.jpg" width="640" height="427" alt="" /></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">西區是台中市的文藝特區，精緻的歷史建築構成獨特都市美學。位於林森路上的演武場，原是日本警察修練武藝的場所，內有練習柔道及劍道的武德殿，在日本也是政府極力保存的稀有建築。重新開放後，昔日建築結構散發出獨特的老氣味，成為外拍的新興景點。</span></span></div>
+<div><span style="font-size: small;">&nbsp;</span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">DATA</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">地址：台中市西區林森路33號</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">交通：開車從中山高下大雅交流道，走中清路接大雅路，右轉五權路再左轉中正路，至三民路二段右轉再左轉林森路可抵。</span></span></div>
+<div>&nbsp;</div>
+<hr />
+<div>&nbsp;</div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">更多中台灣(台中／彰化／南投／雲林／嘉義)的旅遊資訊．行程安排</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">請看《123樂遊 中台灣》旅遊書優惠特價中&gt;&gt;</span></span><span style="font-family:&quot;微軟正黑體&quot;,&quot;sans-serif&quot;;"><a href="https://goo.gl/FnJPTC"><span style="font-size: small;"><span style="color: rgb(0, 0, 255);"><u><strong>https://goo.gl/FnJPTC</strong></u></span></span></a></span></div>
+<div>&nbsp;</div>
+</div>
+<div><a href="https://www.kadokawa.com.tw/p14-sale4_detail.php?Item_PKey=24c7EIzlSuixn7Y5sj_AYujVmMsq0iFuuookt4BraNQ"><img src="http://www.kadokawa.com.tw//Upload/14423861151789593759.png" width="680" height="288" alt="" /></a></div>
+<div>&nbsp;</div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">更多台中深入介紹請看《台中Walker》</span></span></div>
+<div>&nbsp;</div>
+<div><span style="font-family:&quot;微軟正黑體&quot;,&quot;sans-serif&quot;;"><a href="https://www.kadokawa.com.tw/p14-sale4_detail.php?Item_PKey=04eexmw6Uif-1Aa6jlIpwsxv_i4uVIiZfCkuq16FRZs"><img src="http://www.kadokawa.com.tw//Upload/14423865441773377458.jpg" width="300" height="403" alt="" /></a>&nbsp;<a href="https://www.kadokawa.com.tw/p14-sale4_detail.php?Item_PKey=04eexmw6Uif-1Aa6jlIpwsxv_i4uVIiZfCkuq16FRZs"><img src="http://www.kadokawa.com.tw//Upload/14423865981191251409.jpg" width="300" height="405" alt="" /></a></span></div>
+</div>
+<p>&nbsp;</p> <div class="ssubtitle">
+        <div class="ssubtitle_l">相關情報</div>
+      </div>
+  <div class="news_relate_word">
+  <!--Select PKey,strName from walker Where PKey <> 2829 AND Class1_PKey=1 AND OpenDate <=Now() AND EndDate >= Now() Order By OpenDate DESC limit 5-->  
+  <p>
+    <a href="p4-detail.php?id=2890">悠閒感受茶鄉之美</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2892">#在曼谷必做的30件事 前往天空酒吧！</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2889">濃郁鄉村風格的秘居</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2883">#在曼谷必做的30件事  遊覽傳統水上市場</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2881">「全美TOP10」排隊甜點店  甜甜圈現身代官山</a>
+  </p>  
+  </div><p align="right"><a href="p4.php?seriesa=1&page=1">看更多》</a></p>
+
+<!--p4detail_area end--><br>
+<!--按讚用的-->
+          <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+          <fb:like href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2829" send="false" width="200" show_faces="false" font="verdana"></fb:like>
+          <!--pro_share end-->
+<!--pro_share end--></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</div>
+<div class="p4fb_message">
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-comments" data-href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2829" data-num-posts="10" data-width="670"></div>
+
+<!--p4fb_message-->
+</div>
+     <!--inside1 end-->
+</div>
+    <!--container-->
+</div>
+    <!--wrapper-->
+</div>
+    <!--wrapper-bg-->
+
+  <p>&nbsp; </p>
+</div>
+<div class="footer">
+<p>
+  <!--用法2-->
+  <a href="index.php">回首頁</a>　|　<a href="p9.php">關於角川</a>　| <a href="p9_2.php">廣告刊登</a>　|　<a href="p9_3.php">異業合作</a>　|　<a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=604048734a4c455c3738406954343d2194240492e524c4427272727233f312c2b826j48" target="_blank">徵才資訊</a>　|　<a href="p0_notice.php?link_url=p7-mem-login">會員專區</a>　|　<a href="p9_5.php">聯絡角川　</a>|　<a href="p9_6.php">隱私權聲明</a></p>
+<p><br />
+  <p>台灣角川股份有限公司版權所有，未經許可不可轉載 Copyright &copy; 1999 KADOKAWA TAIWAN CORPORATION All Rights Reserved.</p>
+<br /><!--
+  建議使用1024x768解析度及IE6.0以上版本觀看　Use Browser IE6.0 or above for best effect.
+    &nbsp;&nbsp;網頁設計 <a href="http://www.tsg.com.tw/" target="_blank">T.S.G.</a>--></p>
+<!--footer--></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2867669-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
+

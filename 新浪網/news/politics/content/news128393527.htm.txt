@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="publishid" content="128393527.12.100.0"/><meta name="pageid" content="11114.1197.0.0.115131.0.0.0.0.0.112917.128393527"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta content="telephone=no" name="format-detection" />
+<meta name="keywords" content="" />
+<meta name="description" content="银监会：银行业“十三五”期间聚焦六大发力点---" />
+<title>
+银监会：银行业“十三五”期间聚焦六大发力点-新华网
+</title>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/pc.css" >
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/pc.css" media="screen and (min-width: 768px)" />
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/mobile.css" media="screen and (min-width:0px) and (max-width: 767px)" />
+<script src="http://www.xinhuanet.com/static/jq.js"></script>
+</head>
+<body>
+<div id="wx_pic" style="display:none;">
+<img src="http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg" width="300" height="300" />
+</div>
+<div id="pcHeader" class="domPC">
+<div class="con clearfix">
+<div class="nav clearfix"> <a class="first" href="http://www.news.cn/" target="_blank">首页</a> <a href="http://www.news.cn/politics/" target="_blank">时政</a> <a href="http://www.news.cn/world/" target="_blank">国际</a> <a href="http://www.news.cn/fortune/" target="_blank">财经</a> <a href="http://www.news.cn/politics/leaders/" target="_blank">高层</a> <a href="http://www.news.cn/politics/xhll.htm" target="_blank">理论</a> <a href="http://forum.home.news.cn/index.jsp" target="_blank">论坛</a> <a href="http://sike.news.cn/" target="_blank">思客</a> <a href="http://www.news.cn/info/" target="_blank">信息化</a> <a href="http://xuan.news.cn/" target="_blank">炫空间</a> <a href="http://www.news.cn/mil/" target="_blank">军事</a> <a href="http://www.news.cn/gangao/" target="_blank">港澳</a> <a href="http://www.news.cn/tw/" target="_blank">台湾</a> <a href="http://www.news.cn/photo/index.htm" target="_blank">图片</a> <a href="http://www.news.cn/video/index.htm" target="_blank">视频</a> <a href="http://www.news.cn/ent/" target="_blank">娱乐</a> <a href="http://www.news.cn/fashion/" target="_blank">时尚</a> <a href="http://www.news.cn/sports/" target="_blank">体育</a> <a href="http://www.news.cn/auto/" target="_blank">汽车</a> <a href="http://www.news.cn/tech/" target="_blank">科技</a> <a style="border-right:none" href="http://www.news.cn/food/" target="_blank">食品</a> </div>
+</div>
+</div>
+<!--手机广告-->
+<div class="domMobile" id="mobile_ad1"></div>
+<div id="mobileHeader" class="domMobile">
+<a class="logo" href="http://www.xinhuanet.com"></a> <a class="home" href=""></a> <span class="arrow"></span> <span class="right"><i></i></span>
+<div class="mobileNavList clearfix">
+<script type="text/javascript" src="http://www.news.cn/static/js/20150323_moblie_nav.js"></script>
+</div>
+</div>
+<!--文章标题-->
+<div id="headerTitle">
+<div id="articleTit" class="clearfix">
+<div class="crumbs domPC clearfix">
+<a href="http://www.news.cn/" class="logo domPC" target="_blank"></a> <span class="curDiv clearfix">新华网 &gt; <span class="curNews domPC"></span> &gt; 正文</span>
+<div class="search">
+<!--<form target="_blank" id="f1" name="f1" action="http://info.search.news.cn/result.jspa" onSubmit="document.charset='gbk'; return trimInput();">
+<input type="hidden" name="ss" value="2" />/
+<input type="hidden" name="t" value="1" />/
+<input type="hidden" name="t1" value="0" />/
+<input type="hidden" name="rp" value="10" />/
+<input type="hidden" name="np" value="1" />/
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="q" class="ss" name="n1" />/
+<input type="submit" class="ss_submit" name="btn" value="" />/
+</form>-->
+<form class="clearfix" target="_blank" id="f1" name="f1" action="http://news.chinaso.com/search" onSubmit="document.charset='utf-8';">
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="q" class="ss" name="wd" placeholder="新华网" data-inputcolor="#9c9c9c" />
+<input type="submit" class="ss_submit" name="btn" value="" />
+</form>
+<script type="text/javascript">
+String.prototype.trim = function(){
+	var reExtraSpace = /^\s*(.*?)\s+$/;
+	return this.replace(reExtraSpace,"$1");
+}
+function trimInput(){
+	var arg =document.getElementById("inputwd").value;
+	if(arg.trim() == ""){
+		alert("请输入关键字");
+		document.getElementById("inputwd").focus();
+		return false;
+	}else{
+		return true;
+	}
+}
+</script> 
+</div>
+</div>
+</div>
+</div>
+<div id="center" class="clearfix">
+<span class="yjfxImg domPC"></span>
+<div id="aside" class="domPC">
+<iframe id="asideRight" class="iframeLoad" data-original="" src="" width="100%" height="2820" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+</div>
+<div id="article">
+<h1 id="title">
+银监会：银行业“十三五”期间聚焦六大发力点
+</h1>
+<div class="info clearfix">
+<div class="source">
+<span class="time">
+2015年11月04日 18:10:17
+</span>
+<span>
+来源：
+<em id="source">
+新华财经
+</em>
+</span>
+</div>
+<ul class="comment domPC clearfix">
+<li class="pl">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"><span id="wyhs"></span><a href="#pinglun" style="text-align:center">评论<i id="wyhs_num">0</i></a></div>
+</div>
+</li>
+<li class="share">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02">
+<div class="bdsharebuttonbox"> <a href="#" class="bds_more fx" data-cmd="more"></a></div>
+</div>
+</div>
+</li>
+<li class="dy">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:window.print();" class="dy">打印</a> </div>
+</div>
+</li>
+<li class="fd">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:" class="fd">字大</a> </div>
+</div>
+</li>
+<li class="sx">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:" class="sx">字小</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="article">
+<div id="videoArea">
+<span style="display:none">
+
+</span>
+</div>
+<p>    新华网消息 近日，《中共中央关于制定国民经济和社会发展第十三个五年规划的建议》正式发布，11月4日，中国银监会举行主题为“银行业盘点‘十二五’展望‘十三五’”的新闻发布会。</p>
+<p>    政策研究局副局长廖媛媛表示，目前我国银行业面临多方挑战，从国际上来看，目前世界经济的整体仍然处于金融危机后的修复阶段；从国内看，我国经济运行面临结构调整和动力转换的压力，但是发展环境的变化，不仅仅带来的是挑战，同时也带来了银行业转型发展改革的机遇。“十三五”期间，银行业应当更加注重创新和改革、风险控制、普惠金融发展、全面推进绿色信贷、双向开放、金融安全、协调合作等六大方面发展。</p>
+<p>    第一，更加注重创新和改革。创新改革是推动金融深化与发展的重要抓手，是提高资源配置效率的有力工具。要在银行业体制改革创新上下功夫，着力提高行业的竞争性，积极推动民间资本进入银行业，增加市场活力，推进非银行金融机构专业化的发展，引导各类银行业机构合理定位，实现特色化、差异化的发展；要在业务管理的创新和改革上下功夫，推进银行优化信贷结构，促进经济结构调整和产业结构转型升级，促进银行充分利用大数据、云计算等信息技术，积极适应互联网金融创新发展的趋势，丰富金融产品和市场层次；在风险控制创新改革上下功夫。建立健全与各项创新相匹配的风险管控能力，使银行业服务水平不断地开拓创新。</p>
+<p>　　第二，更加注重普惠金融的发展。要完善和落实小微企业、“三农”和特殊群体等薄弱领域金融服务政策，引导银行业金融机构在基层地区合理布局，促进融资性担保机构服务小微企业和“三农”发展，加大金融支持双创、四众、创新发展战略力度，为科创企业提供有针对性、持续性和体系化的金融服务。</p>
+<p>　　第三，注重全面推进绿色信贷。大力支持绿色、循环、低碳的经济发展，积极开展能效融资、碳排放权融资、绿色信贷资产证券化等创新的金融业务，推动经济结构转型升级，推动金融服务绿色化，提高金融服务的效率。</p>
+<p>　　第四，更加注重双向开放。始终坚持公平竞争、同等待遇的原则，不断提高银行业市场准入的透明度，进一步扩大银行业对外开放，支持银行业走出去和符合条件的外资金融机构来华投资经营，积极参与国际金融规则的制定，促进国际经济金融秩序朝着平等、公正、合作共赢的方向发展。</p>
+<p>　　第五，更加注重金融的安全。稳健安全是银行业持续改革、健康发展的前提，首先是要持续提升银行业金融机构对信用市场、流动性操作风险等方面的识别应对能力，加强全面风险管理能力，加强信息科技安全系统建设，充分发挥监管者的主动性和前瞻性，坚持风险为本的监管原则，进一步强化风险监管，保护存款人和其他客户的合法权益，不断提升银行业系统性风险监管有效性，维护银行业安全稳健运行，坚决守住不发生系统性、区域性风险的底线。</p>
+<p>　　第六，注重协调合作。这有三个层次：要加强银行内部的部门机构的协同，以客户为中心，提升金融的服务质效；要加强监管机构和银行业金融机构的协同，加强沟通，加强信息的交流，及时地提示风险；加强监管部门机构和职能部门间的协调，促进监管协同和信息共享，统一把握监管的标准和尺度，着力解决跨领域、跨行业、跨市场、跨区域风险监管的问题。</p>
+<p>    廖媛媛指出，下一步，银监会将紧紧地围绕“四个全面”战略布局，牢牢把握五大发展的新理念，严格遵循“六个坚持”，以提高金融资源配置的整体质量和综合效率为中心，加快金融体制改革，加快形成引领经济发展新常态的金融治理体系、金融服务机制和金融发展方式，提高服务实体经济的效率，为全面建成小康社会努力奋斗。</p>
+</div>
+<!--文章操作-->
+<div id="articleEdit">
+<span class="tiyi1">
+<a href="javascript:void(0);" class="advise">【纠错】</a>
+<div class="tiyi01" id="advisebox01" style="display:none">
+<div>
+<iframe id="jc_link1" style="width:600px;height:350px; float:left;" border="0" name="search" marginwidth="0" framespacing="0" marginheight="0" frameborder="0" noresize="" scrolling="no" vspale="0"></iframe>
+</div>
+<div class="tiyi03">
+<div id="jc_close1" style="cursor:pointer"><img src="http://www.xinhuanet.com/images/syicon/space.gif" width="24" height="24" border="0" /></div>
+</div>
+</div>
+</span>
+<span class="editor">
+[责任编辑:
+闫雨昕
+]
+</span>
+<br />
+<a href="#" class="xwApp domPC"><i></i>新华炫闻客户端下载<img src="http://www.news.cn/2015/xilan/images/twoCode_xuanwen.jpg" /></a> 
+</div>
+<!--分享-->
+<div id="share" class="domMobile111">
+<div class="bdsharebuttonbox"><a href="#" class="bds_more domPC" data-cmd="more"></a><a href="#" class="bds_xinhua" data-cmd="xinhua" title="分享到新华微博"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+</div>
+<!--相关阅读-->  
+<div class="combox relatedNews clearfix" id="relatedNews">
+<div class="title">
+<h3 class="tit">相关稿件</h3>
+</div>
+<div class="content">
+
+</div>
+</div>
+<!--炫知-->
+<!--<div id="news_xuan_attr"></div>
+<div id="news_xuan_store"></div>
+<script type="text/javascript" src="http://tmisc.home.news.cn/cloudnews/res/dest/xinhuanet/firstReq.js?t=20150323.js"></script>-->
+<!--评论区-->
+<!--广告测试-->
+<div style="margin-bottom:10px;" class="domPC">
+<!--<script src="http://www.xinhuanet.com/test/ad/txtTonglan.js"></script>-->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|WzDt600t130&amp;db=xinhuanet&amp;border=0&amp;local=yes&amp;js=ie" charset="gbk"></script>
+</div>
+<div style="margin:10px auto" class="domPC">
+<iframe class="adIframeLazy" marginheight="0" marginwidth="0" frameborder="0" width="660" height="80" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_tl1&amp;db=xinhuanet&amp;border=0&amp;local=yes"></iframe>
+</div>
+<div class="ad_left1 domPC">
+<iframe class="adIframeLazy" marginheight="0" marginwidth="0" frameborder="0" width="660" height="140" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_tl2&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+<div class="pinglun domPC" id="pinglun">
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/jxhremote-min.js"></script>
+<link href="http://tmisc.home.news.cn/nc/css/comment.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">window.NcOpt = { mid:true, flt:true, preId:"title" };</script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/js/ncMain.js"></script>
+</div>
+<!--<div class="ad_left3 domPC">
+<div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57594.js"></script></div>
+</div>-->
+<div class="ad_left2 domPC">
+<div class="ad_left21  domPC" style="float:left; width:330px;">
+<iframe class="adIframeLazy" id="iframe_l_2" marginheight="0" marginwidth="0" frameborder="0" width="330" height="90" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_an1&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+<div class="ad_left22 domPC" style="float:left; width:330px;">
+<iframe class="adIframeLazy" id="iframe_l_3" marginheight="0" marginwidth="0" frameborder="0" width="330" height="90" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_an2&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="domMobile" id="mobile_ad2"></div>
+<div id="footer">
+<script type="text/javascript" src="http://www.xinhuanet.com/static/js/com_copyright.js"></script>
+</div>
+<div id="returnTop"></div>
+<div id="Xfuchaung" class="domPC"></div>
+<script type="text/javascript" src="http://www.xinhuanet.com/2015/xl2015/xlCommon20150914.js"></script> 
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<iframe allowtransparency="true" class="domPC silderIframe" width="265px" height="630" frameborder="0" scrolling="no" src="http://www.news.cn/SSI_rightSilderXL.htm"></iframe>
+<!--广告位检测-->
+<!--<div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57571.js"></script></div>-->
+<!--<script src="http://www.xinhuanet.com/test/ad/piaochuang.js"></script>-->
+<!--<div class="domPC"><script type='text/javascript' src='http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|WzPc226t280&db=xinhuanet&border=0&local=yes&js=ie' charset='gbk'></script></div>-->
+<div style="display:none"><div id="fwl">010030090920000000000000011100001283935271</div><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010030090920000000000000011100001283935271")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010030090920000000000000011100001283935271" border="0" /></noscript></div>   </body>
+</html>

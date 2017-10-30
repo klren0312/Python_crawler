@@ -1,0 +1,456 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<title>TaipeiWalker陶器×輕食 沖繩咖啡拼盤風潮！</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="沖繩自古盛產陶器，傳統的燒陶製法奠定了獨特風格。販售輕食的沖繩咖啡廳也紛紛開始採用當地陶器做為餐具，特別是所有餐點都「集於一盤」的輕食拼盤，成為最新風潮。" />
+<meta name="keywords" content="">
+<meta name="Robots" content="all">
+<!--FB讚用(在FB,滑過讚的項目會出現圖及文章名)-->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="陶器×輕食 沖繩咖啡拼盤風潮！"/>
+<meta property="og:url" content="http://www.taipeiwalker.com.tw/p4-detail.php?id=2772" />
+<meta property="og:description" content="沖繩自古盛產陶器，傳統的燒陶製法奠定了獨特風格。販售輕食的沖繩咖啡廳也紛紛開始採用當地陶器做為餐具，特別是所有餐點都「集於一盤」的輕食拼盤，成為最新風潮。" />
+<meta property="og:image" content="http://www.kadokawa.com.tw/Upload/walker_201508101146021.jpg"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/style-p4.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="pragma" content="no-cache">
+<script language="JavaScript" type="text/JavaScript" src="js/script.js"></script>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script> 
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" /> 
+<link href="css/sample_lightbox_layout.css" rel="stylesheet" type="text/css" /></head>
+
+<body  >
+  <div id="wrapper-bg">
+<div id="wrapper">
+<div class="menu">
+  <table width="950" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="3">
+        <table width="952" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="23%">&nbsp;</td>
+            <td width="48%" align="right">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="http://www.kadokawa.com.tw/" title="台灣角川KADOKAWA TAIWAN" target="windows"><img src="images/index/icon.jpg"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-rule" target="windows"><img src="images/index/icon1.jpg" alt="註冊REGISTER" border="0" /></a></td>
+                  <td><a href="_p0-login.php?keepThis=true&amp;TB_iframe=true&amp;width=350&amp;height=390" class="thickbox"><img src="images/index/icon2.jpg" alt="登入LOGIN"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-login" target="windows"><img src="images/index/icon3.jpg" alt="會員中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p13-service" target="windows"><img src="images/index/icon6.jpg" alt="客服中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p8-shoplist" target="windows"><img src="images/index/icon4.jpg" alt="購物車"  border="0" /></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="23%">
+                            <a href="index.php"><img src="http://www.kadokawa.com.tw/Upload/dblogo_201205241803341.jpg" border="0"  /></a>
+                          </td>
+            <td>
+              <!--<a href="javascript:;"><img src="images/pic/top-banner.jpg" border="0" /></a>  -->
+              <a href="chgLink.php?PKey=bb83CztJyKD0sm4Imu-zr3kuxQ658RcZFVzLs4OM6P-K" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509071358301.jpg" border="0" /></a>            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <div style="padding-top:10px; padding-bottom:10px;">
+  <div class="menu_area">
+  <a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a1','','images/menu/1s.jpg',1)"><img src="images/menu/1.jpg" name="a1" border="0" id="a1" /></a>
+  <a href="p1.php?date=2015" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2','','images/menu/2s.jpg',1)"><img src="images/menu/2.jpg" name="a2"  alt="封面故事"border="0" id="a2" /></a>
+  <a href="p2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a3','','images/menu/3s.jpg',1)"><img src="images/menu/3.jpg" name="a3"  alt="活動報報"  border="0" id="a3" /></a>
+  <a href="p3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a4','','images/menu/4s.jpg',1)"><img src="images/menu/4.jpg" alt="電影試映室" name="a4"  border="0" id="a4" /></a>
+<a href="p4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a5','','images/menu/5s.jpg',1)"><img src="images/menu/5.jpg" alt="Walker情報" name="a5"  border="0" id="a5" /></a>
+<a href="p5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a6','','images/menu/6s.jpg',1)"><img src="images/menu/6.jpg" name="a6" alt="雜誌&書籍"   border="0" id="a6" /></a>
+  <a href="p6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a7','','images/menu/7s.jpg',1)"><img src="images/menu/7.jpg" name="a7" alt="Digital Reading 數位閱讀"  border="0" id="a7" /></a>
+<a href="http://www.walkerland.com.tw/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a8','','images/menu/8s.jpg',1)"><img src="images/menu/8.jpg" name="a8" alt="WalkerLand"  border="0" id="a8" /></a> 
+<a href="http://www.jwalker.jp/"  target="_blank"  onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a9','','images/menu/9s.jpg',1)"><img src="images/menu/9.jpg" name="a9" alt="PINTA小刺郎"  border="0" id="a9" /></a>
+ <a class="right" href="p9.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a10','','images/menu/10s.jpg',1)"><img src="images/menu/10.jpg" name="a10"  alt="關於角川"  border="0" id="a10" /></a>
+  <!--menu_area end-->
+  </div>
+  </div>
+  <!--menu-->
+    <table width="1000" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="20" nowrap="nowrap">&nbsp;</td>
+      <td width="300" nowrap="nowrap">
+        <div style="float:left;padding-top:12px;"><b class="red">輸入關鍵字：</b></div>
+        <div id="cse-search-form" style="width:220px;float:left;">Loading</div>
+        <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+        <script type="text/javascript"> 
+  google.load('search', '1', {language : 'zh-TW', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '009280701241221109559:1s1grz73mb0', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://www.taipeiwalker.com.tw/p0-search.php");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+        <style type="text/css">
+/* td.gsc-input{  width:80px;}*/
+input[type="search"] {
+  -webkit-appearance: textfield;
+}
+
+  input.gsc-input {
+	/*width:80px;*/
+	  font-size:12px;
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+    border-color: #BBBBBB;
+  }
+  input.gsc-search-button {
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+	 height:24px;
+	  width:40px;
+	  font-size:12px;
+    border-color: #cc0000;
+    background-color: #cc0000;
+  }
+</style>
+      </td>
+      <td align="center" valign="middle"><b class="red">熱門關鍵字：</b>
+          <a href="p0-search.php?q=旅遊">旅遊</a>　<a href="p0-search.php?q=美食">美食</a>　<a href="p0-search.php?q=日本上網">日本上網</a>　<a href="p0-search.php?q=超夯美食">超夯美食</a>　<a href="p0-search.php?q=16周年慶">16周年慶</a>　      </td>
+      <td width="200" align="right" valign="middle"><a href="p0_notice.php?link_url=p7-mem-login"><img src="images/index/icon8.jpg" width="101" height="19" hspace="10" border="0" /></a><a href="p10-RSS.php"><img src="images/index/icon-rss.jpg" width="21" height="21" border="0" />&nbsp; </a><a href="http://www.facebook.com/TaipeiWalker.KADOKAWA" target="_blank"><img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" target="_blank" />&nbsp; </a><a href="http://www.plurk.com/TaipeiWalker" target="_blank"><img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp; </a></td>
+    </tr>
+  </table>
+  </div>
+<div class="container">
+  
+﻿<div class="page-index">
+  <!--page-index-->
+  <div class="side_area">
+    <div class="side_title1">
+      <span class="date-top-blak">New</span> <span class="date-top-red">Walker</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=1b4d9FbCnz01dKLxbTNuOpSzXY1txziLkF-iTyvCm5Jp">
+      <div class="pic"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510310048301.jpg"  border="0"  width="100" height="144"/></div>
+      <div class="word">
+        <div class="title">
+          <p>Taipei Walker 223期</p>
+        </div>
+        <div class="subtitle">5大溫泉區  享受泡湯好時光</div>
+        <div class="txt">作者 : Taipei Walker編輯部<br />
+          出版日期 :
+           2015/11/01<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            109</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+  <div class="side_area">
+    <div class="side_title2">
+      <span class="date-top-blak">New</span> <span class="date-top-blue">Book</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=1bc1ZuaQW_p9Z6UmXwyyXV1zSD8C0iOzPAWO3CnSE4fe">
+      <div class="pic2"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510211637531.jpg"  border="0" width="100" height="144" /></div>
+      <div class="word">
+        <div class="title">
+          <p>曼谷新旅行</p>
+        </div>
+        <div class="subtitle">Because it is Bangkok</div>
+        <div class="txt">作者 : 勞倫斯<br />
+          出版日期 :
+           2015/10/24<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            272</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+        <div class="side_tree">
+    <div class="side_tree_title">Walker情報分類樹狀</div>
+        <div class="side_tree_set_on"><a href="p4.php?seriesa=1&amp;page=1">
+      旅遊      (
+      471      )</a>
+        <div class="side_tree_sub"><a href="p4.php?seriesa=1&seriesb=1&page=1" class="">國內旅遊(126)</a><a href="p4.php?seriesa=1&seriesb=2&page=1" class="">國外旅遊(35)</a><a href="p4.php?seriesa=1&seriesb=21&page=1" class="">Walker(183)</a><a href="p4.php?seriesa=1&seriesb=38&page=1" class="on">來去日本(127)</a></div>    </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=2&amp;page=1">
+      美食      (
+      838      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=3&amp;page=1">
+      生活      (
+      429      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=5&amp;page=1">
+      影視      (
+      610      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=6&amp;page=1">
+      數位      (
+      140      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=4&amp;page=1">
+      藝文活動      (
+      204      )</a>
+            </div>
+      </div>
+    <a href="chgLink.php?PKey=f95eHUKtBm_94sS2iDMW6WRixa5B9XUfGx2saIR9mlRL" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201510191646441.gif" border="0" /></a><a href="chgLink.php?PKey=98982OLNF-uff643Ph8JdI8wO7j155rJrISCz1IQSnhW" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509071327441.gif" border="0" /></a><a href="chgLink.php?PKey=91bbAI2TR29CfYlBmVxWrVq5C29gNfTY49k8NOjS39-s" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509071203231.jpg" border="0" /></a>    <div class="side_news">
+    <p><img src="images/index/index-title-p2.jpg" width="320" height="25" /></p>
+    <div class="side_news_word">
+            <a href="_p2-detail.php?id=1470&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 11月號電影試映會店家明細...
+      </a>
+            <a href="_p2-detail.php?id=1469&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 9月號讀者禮物中獎名單...
+      </a>
+            <a href="_p2-detail.php?id=1467&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號好康試食－「湯太郎蕎麥麵（富錦店）...
+      </a>
+            <a href="_p2-detail.php?id=1466&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「衝出康普頓」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1455&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「好康試食：KG牛排小酒館」中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1457&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「獵巫行動：大滅絕」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1454&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「腥紅山莊」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1453&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「無處可逃」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1446&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「潘恩：航向夢幻島」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1441&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 10月號電影試映會店家明細...
+      </a>
+          </div>
+    <p align="right"> <a href="p2.php"><img src="images/icon.jpg" width="13" height="11" border="0" align="absmiddle" />more&nbsp;</a></p>
+    <!--news-index end-->
+  </div>
+      <a href="chgLink.php?PKey=e6754Ut6kkeoHo0qscciV8BEfyvkufM8SJh9GzLcUbIK" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201507201628231.gif" border="0" /></a><a href="chgLink.php?PKey=e199eCidbrXCs8pQ31SpSYOfJyRfuC6tPXu_U9ppzyA" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201409241851501.jpg" border="0" /></a><a href="chgLink.php?PKey=49cd4aFoL91aIQ6GWZwl4uGqJXGHK_BWNvWR_qQoWX7g" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201501141413221.gif" border="0" /></a><a href="chgLink.php?PKey=4156BAPBkyPjXD5JM45kopP9Whncy5DtyJqhkwHX9ko" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201405271605421.gif" border="0" /></a><a href="chgLink.php?PKey=bd0dGaEbzU-_z9PmWQmY45wnhxXO3gdecKwyJrMdjsg" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201403071647251.jpg" border="0" /></a>  <div class="side_fb">
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTaipeiWalker.KADOKAWA&amp;width=263&amp;height=410&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=true" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:263px; height:450px;" allowtransparency="true"></iframe>
+    <!--side_fb-->
+  </div>
+  <!--page-index end-->
+</div>
+<div class="inside1">
+<div class="nav"><a href='index.php'><img src='images/icon-home.gif' border='0'>&nbsp;首頁</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;<a href=p4.php?seriesa=1&page=1>Walker情報</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;旅遊</div>
+    <div class="title_area">
+<div class="subtitle_l"><img src="images/icon-p4.png"  align="absmiddle" />&nbsp; Walker情報</div>
+<div class="subtitle_r">旅遊</div>
+</div>
+<div class="p4subject_area">
+<div class="p4title">陶器×輕食 沖繩咖啡拼盤風潮！</div>
+<div class="p4time">發表日期：2015/08/11　</div>
+</div>
+<div class="p4detail_share">
+
+<a href="javascript: void(window.open('http://www.facebook.com/share.php?u='.concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2772')) ));" target="_blank">
+	<img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" />&nbsp;</a>
+
+<a href="javascript: void(window.open('http://www.plurk.com/?qualifier=shares&status=' .concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2772')) .concat(' ') .concat('&#40;') .concat(encodeURIComponent(document.title)) .concat('&#41;')));" target="_blank">
+	<img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp;</a>
+</div>
+<div class="p4detail_area">
+<p><span style="color: rgb(153, 51, 102);"><strong><span style="font-size: large;">陶盤餐具 讓餐點更美味！</span></strong></span></p>
+<div>&nbsp;</div>
+<div>
+<div><span style="font-size: small;">沖繩自古盛產陶器，傳統的燒陶製法奠定了獨特風格。販售輕食的沖繩咖啡廳也紛紛開始採用當地陶器做為餐具，特別是所有餐點都「集於一盤」的輕食拼盤，成為最新風潮。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;"><img src="http://www.kadokawa.com.tw//Upload/14391770501118900183.jpg" width="210" height="210" alt="" /><img src="http://www.kadokawa.com.tw//Upload/1439177083380605403.jpg" width="210" height="210" alt="" /><img src="http://www.kadokawa.com.tw//Upload/14391770961092732795.jpg" width="210" height="210" alt="" /><br />
+</span></div>
+<div><span style="font-size: small;">▲</span><strong style="color: rgb(51, 153, 102);"><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">mofgmona</span></span>／</strong><span style="color: rgb(51, 153, 102); font-size: small;"><strong><span style="font-family: 微軟正黑體, sans-serif;">中部．宜野灣市 &nbsp;</span></strong></span><strong style="color: rgb(255, 102, 0);"><span style="font-size: small;">Light Meal拼盤￥1090（左）</span></strong></div>
+<div><span style="font-size: small;">晚間輕食拼盤，一個拼盤、一杯飲料，享受與自己慢慢相處的時光。沖繩野菜料理搭配香烤吐司，採用的陶盤是陶藝家佐藤尚理的作品。附飲料。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;">▲</span><span style="color: rgb(51, 153, 102); font-size: small;"><strong><span style="font-family: 微軟正黑體, sans-serif;">PLOUGHMANS LUNCH BAKERY</span>／</strong></span><span style="color: rgb(51, 153, 102); font-size: small;"><strong><span style="font-family: 微軟正黑體, sans-serif;">中部．北中城村 &nbsp;</span></strong></span><strong style="color: rgb(255, 102, 0);"><span style="font-size: small;">酪梨Open Sandwiches￥950（中）</span></strong></div>
+<div><span style="font-size: small;">麵包烘焙坊的拼盤自然以三明治為主，厚切的吐司上是剁碎的酪梨及加上萊姆、魚醬油、辣椒、杏果的醬料，口感溫和綿密卻十分入味。不修邊幅的陶盤也是亮點之一。附沙拉、湯品。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;">▲</span><strong style="color: rgb(51, 153, 102);"><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">YANBARU HARUSAA'S TABLE Cookhal</span>／<span style="font-family: 微軟正黑體, sans-serif;">北部．名護市 &nbsp;</span></span></strong><strong><span style="color: rgb(255, 102, 0);"><span style="font-size: small;">Lunch Plate午餐拼盤￥900（右）</span></span></strong></div>
+<div><span style="font-size: small;">沖繩山原嫩雞、天然的美味紅蘿蔔及野菜漬物，大大的陶盤上濃縮了各式沖繩美味。除了大圓盤，各種店內使用的陶器餐具、食器，都能當場購買。附沙拉、湯品。</span></div>
+<div>&nbsp;</div>
+<hr />
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="color: rgb(204, 0, 102);"><strong><span style="font-size: large;">沖繩陶器這裡買！！！</span></strong></span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="color: rgb(255, 0, 0);"><strong><span style="font-size: medium;">★mofgmona</span></strong></span></div>
+<div><span style="color: rgb(51, 153, 102);"><strong><span style="font-size: small;">陶器╳Caf&eacute;超暖心鄉村風空間</span></strong></span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1439177449302732453.jpg" width="640" height="427" alt="" /></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;">東京出生的老闆13年前來到沖繩唸大學，並與室友3人一起打造了精巧可愛的咖啡廳。以白色原木為基調的店內走溫暖的鄉村風，著迷於沖繩陶器的老闆於更在咖啡廳樓上開設起陶器雜貨店，集結了30多間沖繩陶器工房、作家的作品，經由陶器點綴讓生活更加美好。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;"><img src="http://www.kadokawa.com.tw//Upload/14391775161187759069.jpg" width="400" height="600" alt="" /><br />
+</span></div>
+<div><span style="font-size: small;">▲Caf&eacute;的每一角落都精緻又不失溫暖。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><img src="http://www.kadokawa.com.tw//Upload/14391779662108877156.jpg" width="210" height="210" alt="" /><img src="http://www.kadokawa.com.tw//Upload/14391779861165499093.jpg" width="210" height="210" alt="" /><img src="http://www.kadokawa.com.tw//Upload/1439178003288568747.jpg" width="210" height="210" alt="" /></div>
+<div><span style="font-size: small;">▲（由左至右）<span style="color: rgb(255, 102, 0);"><strong>雙子堂工作室作品￥1944</strong></span>，色彩豐富的咖啡杯，相當輕薄可愛／<strong><span style="color: rgb(255, 102, 0);">大嶺工房作品￥2520</span></strong>，沖繩特有的青釉，彩度極高存在感十足／<strong><span style="color: rgb(255, 102, 0);">中村かおり作品￥2808</span></strong>，粉嫩的色調與圓潤圖案十分討喜。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;">DATA</span></div>
+<div><span style="font-size: small;">沖繩中部．宜野灣市</span></div>
+<div><span style="font-size: small;">地址：沖縄県宜野湾市宜野湾2-1-29-1Ｆ、雜貨3F 301&nbsp;</span></div>
+<div><span style="font-size: small;">電話：+81-98-893-7303（Caf&eacute;）&nbsp;</span></div>
+<div><span style="font-size: small;">時間：11：30～15：30、17：00～24：00；（六）11：30～24：00；（日）11：30～22：30、雜貨（五）（六）（日）14：00～20：00&nbsp;</span></div>
+<div><span style="font-size: small;">公休：無（二僅午餐時段營業）、雜貨一～四&nbsp;</span></div>
+<div><span style="font-size: small;">交通：開車自那霸市區車程約20分鐘；搭乘琉球巴士交通「80与那城線．具志川屋慶名バスターミナル行」巴士於「長田」下車即達&nbsp;</span></div>
+<div><span style="font-size: small;">HP：<a href="http://mofgmona.com">mofgmona.com</a></span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="color: rgb(255, 0, 0);"><strong><span style="font-size: medium;">★GARB DOMINGO</span></strong></span></div>
+<div><span style="color: rgb(51, 153, 102);"><strong><span style="font-size: small;">浮島通的風格好店</span></strong></span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;">那霸浮島通離車水馬龍的國際通不遠，卻呈現出完全不同的清靜優雅氣息，也讓浮島通成為旅客喜愛的散步小徑。專賣沖繩陶器的小小店舖，商品全是老闆親自收集而來的沖繩陶藝家作品，2樓設有畫廊，精巧藝術空間。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;"><img src="http://www.kadokawa.com.tw//Upload/14391781061924131027.jpg" width="640" height="427" alt="" /><br />
+</span></div>
+<div><span style="font-size: small;">▲各式陶器都是眼光獨到的老闆親自挑選而來。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;">DATA</span></div>
+<div><span style="font-size: small;">沖繩南部．那霸市</span></div>
+<div><span style="font-size: small;">地址：沖縄県那覇市壺屋1-6-3&nbsp;</span></div>
+<div><span style="font-size: small;">電話：+81-98-988-0244&nbsp;</span></div>
+<div><span style="font-size: small;">時間：09：30～13：00、15：00～19：00&nbsp;</span></div>
+<div><span style="font-size: small;">公休：（一）（三）</span></div>
+<div><span style="font-size: small;">交通：沖繩都市單軌電車線「牧志」站出口走路12分鐘&nbsp;</span></div>
+<div><span style="font-size: small;">HP：<a href="http://www.garbdomingo.com">www.garbdomingo.com</a></span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="color: rgb(255, 0, 0);"><strong><span style="font-size: medium;">★やちむんの里</span></strong></span></div>
+<div><span style="color: rgb(51, 153, 102);"><strong><span style="font-size: small;">正宗沖繩陶器的聚集地</span></strong></span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;">綠蔭圍繞的陶器村「やちむんの里」內散佈著14間陶藝工房，與那霸的壺屋通並列陶器集散中心，腹地內除了工房直營商店、窯爐共同販賣中心，還設有咖啡廳。特別是共同登窯，內部有9家工房的窯爐坐鎮於此，氣勢非凡。</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;"><img src="http://www.kadokawa.com.tw//Upload/1439178213420866021.jpg" width="640" height="425" alt="" /><br />
+</span></div>
+<div><span style="font-size: small;">▲建於1980年的登窯位於村落中央，是當地地標，也是著名拍照景點。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;">DATA</span></div>
+<div><span style="font-size: small;">沖繩中部．讀谷村</span></div>
+<div><span style="font-size: small;">地址：沖縄県読谷村座喜味2748</span></div>
+<div><span style="font-size: small;">電話：+81-98-958-6494（讀谷村觀光協會）&nbsp;</span></div>
+<div><span style="font-size: small;">營業：依工房有所有不同&nbsp;</span></div>
+<div><span style="font-size: small;">公休：依工房有所不同&nbsp;</span></div>
+<div><span style="font-size: small;">交通：開車自那霸市區車程約43分鐘</span></div>
+<div><span style="font-size: small;"><br />
+</span></div>
+<div><span style="font-size: small;">＞＞更多日本美食、旅遊情報，請看</span><span style="color: rgb(255, 0, 102);"><strong><span style="font-size: small;"><a href="http://www.taipeiwalker.com.tw/p5-detail.php?id=ddfe6gWff0rr8O2eG8cQHKhDPDoCa27A0e9XAfmONEGo">JapanWalKer Vol.1</a></span></strong></span></div>
+</div>
+<div><span style="font-size: small;"><a href="http://www.taipeiwalker.com.tw/p5-detail.php?id=8546Y8_Bmk67zyaJrqbWelIuvKctRJrRmBWQNRn9TYm1"><img src="http://www.kadokawa.com.tw//Upload/14391783121969438838.jpg" width="640" height="264" alt="" /></a></span></div> <div class="ssubtitle">
+        <div class="ssubtitle_l">相關情報</div>
+      </div>
+  <div class="news_relate_word">
+  <!--Select PKey,strName from walker Where PKey <> 2772 AND Class1_PKey=1 AND OpenDate <=Now() AND EndDate >= Now() Order By OpenDate DESC limit 5-->  
+  <p>
+    <a href="p4-detail.php?id=2890">悠閒感受茶鄉之美</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2892">#在曼谷必做的30件事 前往天空酒吧！</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2889">濃郁鄉村風格的秘居</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2883">#在曼谷必做的30件事  遊覽傳統水上市場</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2881">「全美TOP10」排隊甜點店  甜甜圈現身代官山</a>
+  </p>  
+  </div><p align="right"><a href="p4.php?seriesa=1&page=1">看更多》</a></p>
+
+<!--p4detail_area end--><br>
+<!--按讚用的-->
+          <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+          <fb:like href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2772" send="false" width="200" show_faces="false" font="verdana"></fb:like>
+          <!--pro_share end-->
+<!--pro_share end--></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</div>
+<div class="p4fb_message">
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-comments" data-href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2772" data-num-posts="10" data-width="670"></div>
+
+<!--p4fb_message-->
+</div>
+     <!--inside1 end-->
+</div>
+    <!--container-->
+</div>
+    <!--wrapper-->
+</div>
+    <!--wrapper-bg-->
+
+  <p>&nbsp; </p>
+</div>
+<div class="footer">
+<p>
+  <!--用法2-->
+  <a href="index.php">回首頁</a>　|　<a href="p9.php">關於角川</a>　| <a href="p9_2.php">廣告刊登</a>　|　<a href="p9_3.php">異業合作</a>　|　<a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=604048734a4c455c3738406954343d2194240492e524c4427272727233f312c2b826j48" target="_blank">徵才資訊</a>　|　<a href="p0_notice.php?link_url=p7-mem-login">會員專區</a>　|　<a href="p9_5.php">聯絡角川　</a>|　<a href="p9_6.php">隱私權聲明</a></p>
+<p><br />
+  <p>台灣角川股份有限公司版權所有，未經許可不可轉載 Copyright &copy; 1999 KADOKAWA TAIWAN CORPORATION All Rights Reserved.</p>
+<br /><!--
+  建議使用1024x768解析度及IE6.0以上版本觀看　Use Browser IE6.0 or above for best effect.
+    &nbsp;&nbsp;網頁設計 <a href="http://www.tsg.com.tw/" target="_blank">T.S.G.</a>--></p>
+<!--footer--></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2867669-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
+

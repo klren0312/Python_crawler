@@ -1,0 +1,923 @@
+20151104_184422_politics_Status: parsing_start
+20151104_184422_news.txt_Status: list index out of range
+20151104_184422_news128388772.htm.txt_Status: list index out of range
+20151104_184422_news128390725.htm.txt_Status: list index out of range
+20151104_184422_news128390855.htm.txt_Status: list index out of range
+20151104_184422_news128390981.htm.txt_Status: list index out of range
+20151104_184422_news128391004.htm.txt_Status: list index out of range
+20151104_184422_news128391014.htm.txt_Status: list index out of range
+20151104_184422_news128391192.htm.txt_Status: list index out of range
+20151104_184422_news128391212.htm.txt_Status: list index out of range
+20151104_184422_news128391264.htm.txt_Status: list index out of range
+20151104_184422_news128391265.htm.txt_Status: list index out of range
+20151104_184422_news128391268.htm.txt_Status: list index out of range
+20151104_184422_news128391269.htm.txt_Status: list index out of range
+20151104_184422_news128391282.htm.txt_Status: list index out of range
+20151104_184422_news128391386.htm.txt_Status: list index out of range
+20151104_184422_news128391409.htm.txt_Status: list index out of range
+20151104_184422_news128392407.htm.txt_Status: list index out of range
+20151104_184422_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_184422_test.txt_Status: list index out of range
+20151104_184556_politics_Status: parsing_start
+20151104_184556_news.txt_Status: list index out of range
+20151104_184556_news128388772.htm.txt_Status: list index out of range
+20151104_184556_news128390725.htm.txt_Status: list index out of range
+20151104_184556_news128390855.htm.txt_Status: list index out of range
+20151104_184556_news128390981.htm.txt_Status: list index out of range
+20151104_184556_news128391004.htm.txt_Status: list index out of range
+20151104_184556_news128391014.htm.txt_Status: list index out of range
+20151104_184556_news128391192.htm.txt_Status: list index out of range
+20151104_184556_news128391212.htm.txt_Status: list index out of range
+20151104_184556_news128391264.htm.txt_Status: list index out of range
+20151104_184556_news128391265.htm.txt_Status: list index out of range
+20151104_184556_news128391268.htm.txt_Status: list index out of range
+20151104_184556_news128391269.htm.txt_Status: list index out of range
+20151104_184556_news128391282.htm.txt_Status: list index out of range
+20151104_184556_news128391386.htm.txt_Status: list index out of range
+20151104_184556_news128391409.htm.txt_Status: list index out of range
+20151104_184556_news128392407.htm.txt_Status: list index out of range
+20151104_184556_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_184556_test.txt_Status: list index out of range
+20151104_184640_politics_Status: parsing_start
+20151104_184640_news.txt_Status: list index out of range
+20151104_184640_news128388772.htm.txt_Status: list index out of range
+20151104_184640_news128390725.htm.txt_Status: list index out of range
+20151104_184640_news128390855.htm.txt_Status: list index out of range
+20151104_184640_news128390981.htm.txt_Status: list index out of range
+20151104_184640_news128391004.htm.txt_Status: list index out of range
+20151104_184640_news128391014.htm.txt_Status: list index out of range
+20151104_184640_news128391192.htm.txt_Status: list index out of range
+20151104_184640_news128391212.htm.txt_Status: list index out of range
+20151104_184640_news128391264.htm.txt_Status: list index out of range
+20151104_184640_news128391265.htm.txt_Status: list index out of range
+20151104_184640_news128391268.htm.txt_Status: list index out of range
+20151104_184640_news128391269.htm.txt_Status: list index out of range
+20151104_184640_news128391282.htm.txt_Status: list index out of range
+20151104_184640_news128391386.htm.txt_Status: list index out of range
+20151104_184640_news128391409.htm.txt_Status: list index out of range
+20151104_184640_news128392407.htm.txt_Status: list index out of range
+20151104_184640_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_184640_test.txt_Status: list index out of range
+20151104_184703_politics_Status: parsing_start
+20151104_184703_news.txt_Status: list index out of range
+20151104_184703_news128388772.htm.txt_Status: list index out of range
+20151104_184703_news128390725.htm.txt_Status: list index out of range
+20151104_184703_news128390855.htm.txt_Status: list index out of range
+20151104_184703_news128390981.htm.txt_Status: list index out of range
+20151104_184703_news128391004.htm.txt_Status: list index out of range
+20151104_184703_news128391014.htm.txt_Status: list index out of range
+20151104_184703_news128391192.htm.txt_Status: list index out of range
+20151104_184703_news128391212.htm.txt_Status: list index out of range
+20151104_184704_news128391264.htm.txt_Status: list index out of range
+20151104_184704_news128391265.htm.txt_Status: list index out of range
+20151104_184704_news128391268.htm.txt_Status: list index out of range
+20151104_184704_news128391269.htm.txt_Status: list index out of range
+20151104_184704_news128391282.htm.txt_Status: list index out of range
+20151104_184704_news128391386.htm.txt_Status: list index out of range
+20151104_184704_news128391409.htm.txt_Status: list index out of range
+20151104_184704_news128392407.htm.txt_Status: list index out of range
+20151104_184704_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_184704_test.txt_Status: list index out of range
+20151104_184828_politics_Status: parsing_start
+20151104_184828_news.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128388772.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128390725.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128390855.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128390981.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391004.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391014.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391192.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391212.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391264.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391265.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391268.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391269.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391282.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391386.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128391409.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_news128392407.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_184829_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_184829_test.txt_Status: list index out of range
+20151104_184954_politics_Status: parsing_start
+20151104_184954_news.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128390725.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128390855.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128390981.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128391004.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128391014.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128391192.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128391212.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128391264.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184954_news128391265.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_news128391268.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_news128391269.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_news128391282.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_news128391386.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_news128391409.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_news128392407.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_184955_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_184955_test.txt_Status: list index out of range
+20151104_185034_politics_Status: parsing_start
+20151104_185034_news.txt_Status: global name 'cTimeObject' is not defined
+20151104_185034_news128388772.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185034_news128390725.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185034_news128390855.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185034_news128390981.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185034_news128391004.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185034_news128391014.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391192.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391212.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391264.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391265.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391268.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391269.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391282.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391386.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128391409.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_news128392407.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185035_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_185035_test.txt_Status: list index out of range
+20151104_185050_politics_Status: parsing_start
+20151104_185050_news.txt_Status: global name 'cTimeObject' is not defined
+20151104_185050_news128388772.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185050_news128390725.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185051_news128390855.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185051_news128390981.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185051_news128391004.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185051_news128391014.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185052_news128391192.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185052_news128391212.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185052_news128391264.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185052_news128391265.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185053_news128391268.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185053_news128391269.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185053_news128391282.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185053_news128391386.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185054_news128391409.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185054_news128392407.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185054_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_185054_test.txt_Status: list index out of range
+20151104_185109_politics_Status: parsing_start
+20151104_185109_news.txt_Status: global name 'cTimeObject' is not defined
+20151104_185109_news128388772.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185109_news128390725.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185110_news128390855.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185110_news128390981.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185110_news128391004.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185110_news128391014.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185111_news128391192.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185111_news128391212.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185111_news128391264.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185111_news128391265.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185111_news128391268.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185112_news128391269.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185112_news128391282.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185112_news128391386.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185112_news128391409.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185113_news128392407.htm.txt_Status: global name 'cTimeObject' is not defined
+20151104_185113_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_185113_test.txt_Status: list index out of range
+20151104_185249_politics_Status: parsing_start
+20151104_185711_politics_Status: parsing_start
+20151104_185711_news.txt_Status: global name 'articleContent' is not defined
+20151104_185711_news128388772.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185711_news128390725.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185711_news128390855.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185711_news128390981.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185711_news128391004.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391014.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391192.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391212.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391264.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391265.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391268.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391269.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391282.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391386.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128391409.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_news128392407.htm.txt_Status: global name 'articleContent' is not defined
+20151104_185712_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_185712_test.txt_Status: list index out of range
+20151104_185846_politics_Status: parsing_start
+20151104_185846_news.txt_Status: global name 'tyjtyj' is not defined
+20151104_185846_news128388772.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185846_news128390725.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185846_news128390855.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185847_news128390981.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185847_news128391004.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185847_news128391014.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185848_news128391192.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185848_news128391212.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185848_news128391264.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185848_news128391265.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185848_news128391268.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185849_news128391269.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185849_news128391282.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185849_news128391386.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185849_news128391409.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185849_news128392407.htm.txt_Status: global name 'tyjtyj' is not defined
+20151104_185849_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_185850_test.txt_Status: list index out of range
+20151104_185922_politics_Status: parsing_start
+20151104_190520_politics_Status: parsing_start
+20151104_190520_news.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128390725.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128390855.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128390981.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391004.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391014.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391192.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391212.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391264.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391265.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391268.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391269.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391282.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391386.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128391409.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_news128392407.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_190520_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_190520_test.txt_Status: list index out of range
+20151104_191403_politics_Status: parsing_start
+20151104_191403_news.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128390725.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128390855.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128390981.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391004.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391014.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391192.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391212.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391264.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391265.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391268.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391269.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391282.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391386.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128391409.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_news128392407.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191403_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_191403_test.txt_Status: list index out of range
+20151104_191423_politics_Status: parsing_start
+20151104_191423_news.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128390725.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128390855.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128390981.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128391004.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128391014.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128391192.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128391212.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128391264.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191423_news128391265.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_news128391268.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_news128391269.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_news128391282.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_news128391386.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_news128391409.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_news128392407.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151104_191424_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_191424_test.txt_Status: list index out of range
+20151104_191950_politics_Status: parsing_start
+20151104_192952_newshttp_Status: line 247: htmlParseEntityRef: expecting ';'
+20151104_193002_test.txt_Status: list index out of range
+20151105_120315_politics_Status: parsing_start
+20151105_120315_news.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128390725.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128390855.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128390981.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128391004.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128391014.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128391192.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120315_news128391212.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391264.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391265.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391268.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391269.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391282.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391386.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128391409.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128392407.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128393527.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128394963.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395121.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395178.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395185.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395194.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395356.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395366.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395421.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395461.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395469.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395560.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128395670.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_news128396080.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_120316_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_120316_test.txt_Status: list index out of range
+20151105_120545_politics_Status: parsing_start
+20151105_120941_politics_Status: parsing_start
+20151105_120941_news.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128390725.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128390855.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128390981.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391004.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391014.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391192.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391212.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391264.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391265.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391268.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391269.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391282.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391386.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128391409.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128392407.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_120941_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_120941_test.txt_Status: list index out of range
+20151105_121032_politics_Status: parsing_start
+20151105_121032_news.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128390725.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128390855.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128390981.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391004.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391014.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391192.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391212.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391264.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391265.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391268.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391269.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391282.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391386.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128391409.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128392407.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121032_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121032_test.txt_Status: list index out of range
+20151105_121046_politics_Status: parsing_start
+20151105_121046_news.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128390725.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128390855.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128390981.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391004.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391014.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391192.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391212.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391264.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391265.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391268.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391269.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391282.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391386.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128391409.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128392407.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121046_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121046_test.txt_Status: list index out of range
+20151105_121123_politics_Status: parsing_start
+20151105_121123_test.txt_Status: list index out of range
+20151105_121242_politics_Status: parsing_start
+20151105_121242_news.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128390725.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128390855.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128390981.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391004.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391014.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391192.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391212.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391264.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391265.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391268.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391269.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391282.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391386.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128391409.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128392407.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121242_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121242_test.txt_Status: list index out of range
+20151105_121659_politics_Status: parsing_start
+20151105_121737_politics_Status: parsing_start
+20151105_121737_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128393527.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128394963.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395121.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395178.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395185.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395194.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395356.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395366.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395421.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395461.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395469.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395560.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128395670.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_news128396080.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121737_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121737_test.txt_Status: list index out of range
+20151105_121806_politics_Status: parsing_start
+20151105_121806_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121806_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121806_test.txt_Status: list index out of range
+20151105_121901_politics_Status: parsing_start
+20151105_121901_test.txt_Status: list index out of range
+20151105_121913_politics_Status: parsing_start
+20151105_121913_test.txt_Status: list index out of range
+20151105_121934_politics_Status: parsing_start
+20151105_121934_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128393527.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128394963.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395121.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395178.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395185.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395194.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395356.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395366.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395421.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395461.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395469.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395560.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128395670.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_news128396080.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_121934_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121934_test.txt_Status: list index out of range
+20151105_121951_politics_Status: parsing_start
+20151105_121951_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_121951_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_121951_test.txt_Status: list index out of range
+20151105_122222_politics_Status: parsing_start
+20151105_122222_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122222_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122222_test.txt_Status: list index out of range
+20151105_122309_politics_Status: parsing_start
+20151105_122309_news128388772.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128393527.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128394963.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395121.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395178.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395185.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395194.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395356.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395366.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395421.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395461.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395469.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395560.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128395670.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_news128396080.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122309_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122309_test.txt_Status: list index out of range
+20151105_122329_politics_Status: parsing_start
+20151105_122329_news128388772.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128393527.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128394963.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395121.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395178.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395185.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395194.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395356.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395366.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395421.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395461.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395469.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395560.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128395670.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_news128396080.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122329_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122329_test.txt_Status: list index out of range
+20151105_122333_politics_Status: parsing_start
+20151105_122333_news128388772.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128393527.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128394963.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395121.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395178.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395185.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395194.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395356.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395366.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395421.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395461.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395469.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395560.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128395670.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_news128396080.htm_Status: [Errno 9] Bad file descriptor
+20151105_122333_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122333_test.txt_Status: list index out of range
+20151105_122410_politics_Status: parsing_start
+20151105_122410_news128388772.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128393527.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128394963.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395121.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395178.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395185.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395194.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395356.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395366.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395421.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395461.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395469.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395560.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128395670.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_news128396080.htm_Status: [Errno 9] Bad file descriptor
+20151105_122410_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122410_test.txt_Status: list index out of range
+20151105_122426_politics_Status: parsing_start
+20151105_122426_test.txt_Status: list index out of range
+20151105_122436_politics_Status: parsing_start
+20151105_122436_test.txt_Status: list index out of range
+20151105_122447_politics_Status: parsing_start
+20151105_122447_test.txt_Status: list index out of range
+20151105_122459_politics_Status: parsing_start
+20151105_122459_test.txt_Status: list index out of range
+20151105_122510_politics_Status: parsing_start
+20151105_122510_test.txt_Status: list index out of range
+20151105_122525_politics_Status: parsing_start
+20151105_122545_politics_Status: parsing_start
+20151105_122545_news128388772.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128393527.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128394963.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395121.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395178.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395185.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395194.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395356.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395366.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395421.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395461.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395469.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395560.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128395670.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_news128396080.htm_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122545_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122545_test.txt_Status: list index out of range
+20151105_122555_politics_Status: parsing_start
+20151105_122606_politics_Status: parsing_start
+20151105_122703_politics_Status: parsing_start
+20151105_122703_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128393527.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128394963.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395121.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395178.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395185.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395194.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395356.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395366.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395421.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395461.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395469.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395560.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128395670.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_news128396080.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_122703_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122703_test.txt_Status: list index out of range
+20151105_122720_politics_Status: parsing_start
+20151105_122720_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_122720_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_122720_test.txt_Status: list index out of range
+20151105_123431_politics_Status: parsing_start
+20151105_123450_politics_Status: parsing_start
+20151105_123505_politics_Status: parsing_start
+20151105_123545_politics_Status: parsing_start
+20151105_123545_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123545_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_123545_test.txt_Status: list index out of range
+20151105_123848_politics_Status: parsing_start
+20151105_123848_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123848_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_123848_test.txt_Status: list index out of range
+20151105_123906_politics_Status: parsing_start
+20151105_123906_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123906_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_123906_test.txt_Status: list index out of range
+20151105_123919_politics_Status: parsing_start
+20151105_123919_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_123919_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_123919_test.txt_Status: list index out of range
+20151105_124029_politics_Status: parsing_start
+20151105_124029_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_124029_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_124029_test.txt_Status: list index out of range
+20151105_125548_politics_Status: parsing_start
+20151105_125548_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125548_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_125742_politics_Status: parsing_start
+20151105_125742_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125742_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_125954_politics_Status: parsing_start
+20151105_125954_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_125954_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_131156_politics_Status: parsing_start
+20151105_131156_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131156_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_131312_politics_Status: parsing_start
+20151105_131312_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128393527.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128394963.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395121.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395178.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395185.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395194.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395356.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395366.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395421.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395461.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395469.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395560.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128395670.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_news128396080.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131312_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_131402_politics_Status: parsing_start
+20151105_131402_news128388772.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128393527.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128394963.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395121.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395178.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395185.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395194.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395356.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395366.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395421.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395461.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395469.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395560.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128395670.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_news128396080.htm.txt_Status: 'cp950' codec can't encode character u'\u8d23' in position 4: illegal multibyte sequence
+20151105_131402_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_131420_politics_Status: parsing_start
+20151105_131420_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131420_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_131806_politics_Status: parsing_start
+20151105_131806_news128388772.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128393527.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128394963.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395121.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395178.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395185.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395194.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395356.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395366.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395421.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395461.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395469.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395560.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128395670.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_news128396080.htm.txt_Status: [Errno 9] Bad file descriptor
+20151105_131806_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'
+20151105_143524_politics_Status: parsing_start
+20151105_143524_newshttp_Status: line 243: htmlParseEntityRef: expecting ';'

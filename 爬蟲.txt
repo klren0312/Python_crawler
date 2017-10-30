@@ -1,0 +1,52 @@
+開啟抓取下來的檔案，及寫入json
+getParsedContent(self, board, sinceDate='a', move='n')
+使用自己的def或變數, 版別, 抓取時間, 範例
+ 
+抓取內文頁內容
+getPageContent(self, url, board)
+使用自己的def或變數, 網址, 版別
+ 
+目錄頁連結及抓取內文網址
+getBoardContent(self, board, endDate)
+使用自己的def或變數, 版別, 結束時間
+ 
+將檔案內容寫成dict並回傳給getParsedContent製作成json
+parseContent(self, fileName, board)
+使用自己的def或變數, 檔案名稱, 版別
+
+
+物件命名
+boardNumDict = 版類別
+jsonDict = json檔的dict
+board = 版別
+urlElement = 存放抓取到目錄頁內文網址xpath
+destURLLt = 存放抓取到目錄頁內文網址
+url = 網址及內文網址
+pageDict = json檔的dict
+endDate = 結束時間
+ 
+pageDict = {
+sourceType:
+        - "news", 新聞網站, ex. Yahoo News
+        - "forum", 論壇 ex. Mobile01, PTT
+        - "socialMedia", "社群網站" ex. FB
+sourceWebsite: "(網站名稱)"
+sourceBoard: "(網站內版別)"
+url: "(完整網址)"
+author: "作者名稱"
+cTimeObject: "(文章發表時間)", format: yyyymmdd_hh:mm
+cDate: "(文章發表日期)", format: yyyymmdd
+cTime: "(文章發表時間)", format: hh:mm
+articleContent: "文章內容"
+quoteFrom: "(文章引述內容, PTT特有, 綠色字體部分)"
+pushIDArray: "(推文ID)", ['cn9a2002', 'ErnestKou',...]
+pushContentArray: "(推文內容)", ["K8或TT 耗材換新 再戰5年 然後升級安全的新車 結案", "看有沒有Premio,耗材平均來說應該是目前路上跑的車中最便宜",...]
+pushTimeArray: "(推文時間)", ['20140316_16:38', '20140316_17:21',...]
+messageNum: "(留言數)",
+pushNum: "(推文數)", PTT"推"計1, 其餘網站與留言數相同
+}
+ 
+套件的選擇
+Import requests
+from lxml import etree
+import json

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="publishid" content="128396080.11.3.0"/><meta name="pageid" content="1197.1197.0.0.115033.0.0.0.0.0.11421.128396080"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta content="telephone=no" name="format-detection" />
+<meta name="keywords" content="金融产品,理财产品,基金理财,中央财经大学法学院,资金池" />
+<meta name="description" content="途牛或欲借助金融弥补旅游盈利短板 业内提醒有风险---在途牛九周年之际，创始人兼CEO于敦德宣布了未来途牛将要走“旅游+金融”的布局。记者浏览“途牛金服”发现，途牛金融目前提供的产品包括理财、消费金融、出境金融、保险、企业金融五大方面。" />
+<title>
+途牛或欲借助金融弥补旅游盈利短板 业内提醒有风险-新华网
+</title>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/pc.css" >
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/pc.css" media="screen and (min-width: 768px)" />
+<link rel="stylesheet" type="text/css" href="http://www.xinhuanet.com/2015/xl2015/mobile.css" media="screen and (min-width:0px) and (max-width: 767px)" />
+<script src="http://www.xinhuanet.com/static/jq.js"></script>
+</head>
+<body>
+<div id="wx_pic" style="display:none;">
+<img src="http://www.xinhuanet.com/imgs2015/xhwxlogo300.jpg" width="300" height="300" />
+</div>
+<div id="pcHeader" class="domPC">
+<div class="con clearfix">
+<div class="nav clearfix"> <a class="first" href="http://www.news.cn/" target="_blank">首页</a> <a href="http://www.news.cn/politics/" target="_blank">时政</a> <a href="http://www.news.cn/world/" target="_blank">国际</a> <a href="http://www.news.cn/fortune/" target="_blank">财经</a> <a href="http://www.news.cn/politics/leaders/" target="_blank">高层</a> <a href="http://www.news.cn/politics/xhll.htm" target="_blank">理论</a> <a href="http://forum.home.news.cn/index.jsp" target="_blank">论坛</a> <a href="http://sike.news.cn/" target="_blank">思客</a> <a href="http://www.news.cn/info/" target="_blank">信息化</a> <a href="http://xuan.news.cn/" target="_blank">炫空间</a> <a href="http://www.news.cn/mil/" target="_blank">军事</a> <a href="http://www.news.cn/gangao/" target="_blank">港澳</a> <a href="http://www.news.cn/tw/" target="_blank">台湾</a> <a href="http://www.news.cn/photo/index.htm" target="_blank">图片</a> <a href="http://www.news.cn/video/index.htm" target="_blank">视频</a> <a href="http://www.news.cn/ent/" target="_blank">娱乐</a> <a href="http://www.news.cn/fashion/" target="_blank">时尚</a> <a href="http://www.news.cn/sports/" target="_blank">体育</a> <a href="http://www.news.cn/auto/" target="_blank">汽车</a> <a href="http://www.news.cn/tech/" target="_blank">科技</a> <a style="border-right:none" href="http://www.news.cn/food/" target="_blank">食品</a> </div>
+</div>
+</div>
+<!--手机广告-->
+<div class="domMobile" id="mobile_ad1"></div>
+<div id="mobileHeader" class="domMobile">
+<a class="logo" href="http://www.xinhuanet.com"></a> <a class="home" href=""></a> <span class="arrow"></span> <span class="right"><i></i></span>
+<div class="mobileNavList clearfix">
+<script type="text/javascript" src="http://www.news.cn/static/js/20150323_moblie_nav.js"></script>
+</div>
+</div>
+<!--文章标题-->
+<div id="headerTitle">
+<div id="articleTit" class="clearfix">
+<div class="crumbs domPC clearfix">
+<a href="http://www.news.cn/" class="logo domPC" target="_blank"></a> <span class="curDiv clearfix">新华网 &gt; <span class="curNews domPC"></span> &gt; 正文</span>
+<div class="search">
+<!--<form target="_blank" id="f1" name="f1" action="http://info.search.news.cn/result.jspa" onSubmit="document.charset='gbk'; return trimInput();">
+<input type="hidden" name="ss" value="2" />/
+<input type="hidden" name="t" value="1" />/
+<input type="hidden" name="t1" value="0" />/
+<input type="hidden" name="rp" value="10" />/
+<input type="hidden" name="np" value="1" />/
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="q" class="ss" name="n1" />/
+<input type="submit" class="ss_submit" name="btn" value="" />/
+</form>-->
+<form class="clearfix" target="_blank" id="f1" name="f1" action="http://news.chinaso.com/search" onSubmit="document.charset='utf-8';">
+<input type="text" onmouseoff="this.className='input_off'" autocomplete="off" maxlength="255" value="" id="q" class="ss" name="wd" placeholder="新华网" data-inputcolor="#9c9c9c" />
+<input type="submit" class="ss_submit" name="btn" value="" />
+</form>
+<script type="text/javascript">
+String.prototype.trim = function(){
+	var reExtraSpace = /^\s*(.*?)\s+$/;
+	return this.replace(reExtraSpace,"$1");
+}
+function trimInput(){
+	var arg =document.getElementById("inputwd").value;
+	if(arg.trim() == ""){
+		alert("请输入关键字");
+		document.getElementById("inputwd").focus();
+		return false;
+	}else{
+		return true;
+	}
+}
+</script> 
+</div>
+</div>
+</div>
+</div>
+<div id="center" class="clearfix">
+<span class="yjfxImg domPC"></span>
+<div id="aside" class="domPC">
+<iframe id="asideRight" class="iframeLoad" data-original="" src="" width="100%" height="2820" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+</div>
+<div id="article">
+<h1 id="title">
+途牛或欲借助金融弥补旅游盈利短板 业内提醒有风险
+</h1>
+<div class="info clearfix">
+<div class="source">
+<span class="time">
+2015年11月05日 09:34:41
+</span>
+<span>
+来源：
+<em id="source">
+北京商报
+</em>
+</span>
+</div>
+<ul class="comment domPC clearfix">
+<li class="pl">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"><span id="wyhs"></span><a href="#pinglun" style="text-align:center">评论<i id="wyhs_num">0</i></a></div>
+</div>
+</li>
+<li class="share">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02">
+<div class="bdsharebuttonbox"> <a href="#" class="bds_more fx" data-cmd="more"></a></div>
+</div>
+</div>
+</li>
+<li class="dy">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:window.print();" class="dy">打印</a> </div>
+</div>
+</li>
+<li class="fd">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:" class="fd">字大</a> </div>
+</div>
+</li>
+<li class="sx">
+<div class="scrollDiv">
+<div class="line01"></div>
+<div class="line02"> <a href="javascript:" class="sx">字小</a> </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="article">
+<div id="videoArea">
+<span style="display:none">
+
+</span>
+</div>
+<p align="center"><img id="{D2B01DAB-748F-4E73-AA5D-DE835B8B4680}" align="center" src="128396080_14466871146041n.jpg" /></p>
+<p>　　在途牛九周年之际，创始人兼CEO于敦德宣布了未来途牛将要走“旅游+金融”的布局。就在越来越多的OTA（在线旅游）纷纷一股脑扎向“旅游+金融”时，金融风险也随之而来。目前，途牛推出了诸多金融产品，并获得了三块金融服务牌照。就在途牛加大布局金融领域的同时，业内分析指出，旅游业利润单薄现状难变，而金融的盈利点很高，不排除途牛借助布局金融业务加强营利率。然而，由于金融领域专业性非常高，风控难以做好，同时短期内金融业务也难以实现盈利。</p>
+<p>　　<strong>途牛大打金融牌</strong></p>
+<p>　　途牛从去年开始一路补充自己的金融产品，并标榜要做“一站式”互联网金融服务平台。目前，途牛已经推出“途牛金服”，在该平台上，用户可购买途牛宝、出境保等各种互联网金融产品。</p>
+<p>　　北京商报记者浏览“途牛金服”发现，途牛金融目前提供的产品包括<a href="http://i.cmbchina.com/index.htm">理财</a>、消费金融、出境金融、保险、企业金融五大方面。其中理财产品包括途牛宝、基金理财、定期理财、预约理财四大系列，消费金融则包括第三方分期及今年8月刚推出的首付出发，而针对出境金融服务市场， 途牛则推出了出境保、购物退税等产品。途牛负责人更是宣布今后将加强布局“旅游+金融”业务。北京商报记者了解到，途牛在今年先后获得保理经纪、保险销售及基金销售三块金融服务牌照。</p>
+<p>　　对于运营资质， 中国人民大学法学院副院长杨东表示，获得相应的资质和牌照之后，相关企业将严格按照法律规范，不能违规操作，同时更要做好对投资者的信息保护。“做旅游可能好一点，但是国家对金融的监管比对旅游的监管要严很多。”实际上，此前途牛的“牛业贷”就被媒体诟病，指出途牛针对供应端设立“牛业贷”，是利用账期把供应商贷款反过来贷给供应商，途牛借此不仅能获得一定利润，同时也可捆绑供应商。</p>
+<p>　<strong>　OTA借金融寻盈利点</strong></p>
+<p>　　“旅游+金融”成为旅游业内的一大乐事，此时途牛也已经公开表示未来将把“旅游+金融”作为下一个八年的计划。然而业内人士分析指出，途牛做金融主要是为了解决战略单薄的问题。</p>
+<p>　　于敦德在途牛九周年发布会上表示，途牛下一个八年计划要从纯旅游转型到“旅游+金融”。对于途牛的转型，劲旅网总裁魏长仁表示，只做旅游业务比较单薄，同时旅游的毛利率很低，成本又难以下调，因此金融成为旅游业完善战略布局、多元化发展的可行方式之一。对于此种说法，中央财经大学法学院教授、金融法研究所所长黄震在接受北京商报记者采访时指出，互联网金融是趋势，未来互联网金融有可能会渗透到任何产业中去。</p>
+<p>　　据了解，旅游业利润单薄是公认的事实，近几年在价格战的压力下更是家家亏损，有媒体此前报道指出，互联网金融的盈利点非常高，在OTA频频亏钱的情况下，寻找新的盈利点成为OTA的方向。魏长仁指出，旅游企业做金融是业内趋势，OTA在此积极参与是有必要的。易观智库最新发布的《中国互联网旅游金融市场专题研究报告2015》数据显示，2014年中国互联网旅游金融市场的交易规模为19.7亿元人民币，渗透率为5.9%，预计到2017年整体渗透率将超过30%。有业内人士表示，甚至不排除一些企业将盈利点放在互联网金融上。</p>
+<p>　　在金融事业成为目标之后，旅游企业涉水金融的可行性也让途牛借机搭上了金融快车。于敦德在九周年发布会上表示，“旅游+互联网+金融”的融合创新是OTA未来的方向。他指出，相对于房子车子，旅游相对高频，相对于餐饮，旅游客单价较高，而且旅游的互联网程度相对较高，因此旅游最适合与金融结合。然而，有业内人士直接指出，旅游企业做互联网金融业务，实际上就是利用旅游企业大量的资金流打一个“时间差”。此外，魏长仁还表示，“做金融的话肯定是战略选择，短期的话做金融并不会赚多少钱”。</p>
+<p>　<strong>　金融产品依然面临风险</strong></p>
+<p>　　在旅游企业的需求下以及金融与旅游业结合的合理性，促使旅游企业涉足金融成为趋势，但是金融产品本身专业性很强，旅游企业能够做好金融产品尚不可知。同时，规避风险以及如何满足金融产品的专业性，都将成为困扰涉足金融的旅游企业未来需面临的问题。</p>
+<p>　　对于旅游行业涉足金融事业所面临的隐患，黄震认为，金融产品确实会存在隐患，如果是自己开发的金融产品，则涉及到资金池的运作是否规范、是否符合有关监管的要求，此外涉及到金融产品，旅游企业要有充分的风险提示和信息披露，否则容易涉嫌违规操作。也有业内人士分析到，目前政策、互联网金融的限制较多，旅游企业之所以涉及互联网金融领域，除了追寻新利润点，在法律法规上可以打一个“擦边球”。</p>
+<p>　　面对金融产品所带来的风险，途牛表示目前已经成立了信贷事业部，共有200多位有银行、金融公司、会计师事务所、小贷公司等北京的成员，通过打造专业的风控团队做好风险控制。</p>
+<p>　　对此，易观国际分析师来妍建议，途牛等涉足金融的旅游公司应该选择金融领域合作伙伴，得到更为专业的指导和支持，而在选择金融产品种类时，应选择成本较低、风险较小、周期相对较短的产品，同时，要利用大数据平台及征信系统对用户进行评估，针对不同群体的用户推出相应的金融产品。</p>
+<p>　　但即便如此，一些风险还是难以避免。某金融业内人士分析到，通常之下金融产品具备很强的专业性，并不仅有风险控制团队就可以避免。很多传统的基金、理财产品本身就具备风险，此外，旅游企业即便是把资金交由第三方负责，也存在不确定因素。因为企业并不能完全掌控第三方。</p>
+<p>　　<strong>“旅游+金融”盈利任重道远</strong></p>
+<p>　　金融作为旅游企业潜在的盈利点，已经在旅游业内成为趋势，但未来是否真的能够为企业创造利润尚不可知。有业内人士建议，金融产品种类繁多、专业性较强，在具体操作过程中要严格按照法律法规，切忌打擦边球。</p>
+<p>　　实际上，互联网金融目前也处于发展中，在此过程中也会面临诸多淘汰。魏长仁表示，金融是很专业的事情，途牛刚开始也是从销售做起，就是帮助基金卖产品，之后再逐渐往深了去做，从趋势上讲是不错的方向，不过也会有淘汰的过程，未来具体如何要看途牛各方面的运营能力。他指出，目前旅游企业做金融任重道远，最终是否能够解决盈利的问题也难以预计。记者 闫文亮 白帆/文　宋媛媛/漫画</p>
+</div>
+<!--文章操作-->
+<div id="articleEdit">
+<span class="tiyi1">
+<a href="javascript:void(0);" class="advise">【纠错】</a>
+<div class="tiyi01" id="advisebox01" style="display:none">
+<div>
+<iframe id="jc_link1" style="width:600px;height:350px; float:left;" border="0" name="search" marginwidth="0" framespacing="0" marginheight="0" frameborder="0" noresize="" scrolling="no" vspale="0"></iframe>
+</div>
+<div class="tiyi03">
+<div id="jc_close1" style="cursor:pointer"><img src="http://www.xinhuanet.com/images/syicon/space.gif" width="24" height="24" border="0" /></div>
+</div>
+</div>
+</span>
+<span class="editor">
+[责任编辑:
+廖佳
+]
+</span>
+<br />
+<a href="#" class="xwApp domPC"><i></i>新华炫闻客户端下载<img src="http://www.news.cn/2015/xilan/images/twoCode_xuanwen.jpg" /></a> 
+</div>
+<!--分享-->
+<div id="share" class="domMobile111">
+<div class="bdsharebuttonbox"><a href="#" class="bds_more domPC" data-cmd="more"></a><a href="#" class="bds_xinhua" data-cmd="xinhua" title="分享到新华微博"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+</div>
+<!--相关阅读-->  
+<div class="combox relatedNews clearfix" id="relatedNews">
+<div class="title">
+<h3 class="tit">相关稿件</h3>
+</div>
+<div class="content">
+
+</div>
+</div>
+<!--炫知-->
+<!--<div id="news_xuan_attr"></div>
+<div id="news_xuan_store"></div>
+<script type="text/javascript" src="http://tmisc.home.news.cn/cloudnews/res/dest/xinhuanet/firstReq.js?t=20150323.js"></script>-->
+<!--评论区-->
+<!--广告测试-->
+<div style="margin-bottom:10px;" class="domPC">
+<!--<script src="http://www.xinhuanet.com/test/ad/txtTonglan.js"></script>-->
+<script type="text/javascript" src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|WzDt600t130&amp;db=xinhuanet&amp;border=0&amp;local=yes&amp;js=ie" charset="gbk"></script>
+</div>
+<div style="margin:10px auto" class="domPC">
+<iframe class="adIframeLazy" marginheight="0" marginwidth="0" frameborder="0" width="660" height="80" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_tl1&amp;db=xinhuanet&amp;border=0&amp;local=yes"></iframe>
+</div>
+<div class="ad_left1 domPC">
+<iframe class="adIframeLazy" marginheight="0" marginwidth="0" frameborder="0" width="660" height="140" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_tl2&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+<div class="pinglun domPC" id="pinglun">
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/jxhremote-min.js"></script>
+<link href="http://tmisc.home.news.cn/nc/css/comment.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">window.NcOpt = { mid:true, flt:true, preId:"title" };</script>
+<script type="text/javascript" src="http://tmisc.home.news.cn/nc/js/ncMain.js"></script>
+</div>
+<!--<div class="ad_left3 domPC">
+<div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57594.js"></script></div>
+</div>-->
+<div class="ad_left2 domPC">
+<div class="ad_left21  domPC" style="float:left; width:330px;">
+<iframe class="adIframeLazy" id="iframe_l_2" marginheight="0" marginwidth="0" frameborder="0" width="330" height="90" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_an1&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+<div class="ad_left22 domPC" style="float:left; width:330px;">
+<iframe class="adIframeLazy" id="iframe_l_3" marginheight="0" marginwidth="0" frameborder="0" width="330" height="90" scrolling="no" data-src="http://embed.xinhuanet.com/main/s?user=AllyesNetwork|new_15xilan|new_15xilan_an2&amp;db=xinhuanet&amp;border=0&amp;local=yes"> </iframe>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="domMobile" id="mobile_ad2"></div>
+<div id="footer">
+<script type="text/javascript" src="http://www.xinhuanet.com/static/js/com_copyright.js"></script>
+</div>
+<div id="returnTop"></div>
+<div id="Xfuchaung" class="domPC"></div>
+<script type="text/javascript" src="http://www.xinhuanet.com/2015/xl2015/xlCommon20150914.js"></script> 
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+<iframe allowtransparency="true" class="domPC silderIframe" width="265px" height="630" frameborder="0" scrolling="no" src="http://www.news.cn/SSI_rightSilderXL.htm"></iframe>
+<!--广告位检测-->
+<!--<div><script type="text/javascript" src="http://f2.adpush.cn/ap/adspacejs/57571.js"></script></div>-->
+<!--<script src="http://www.xinhuanet.com/test/ad/piaochuang.js"></script>-->
+<!--<div class="domPC"><script type='text/javascript' src='http://embed.xinhuanet.com/main/s?user=AllyesNetwork|TppAd|WzPc226t280&db=xinhuanet&border=0&local=yes&js=ie' charset='gbk'></script></div>-->
+<div style="display:none"><div id="fwl">010030090900000000000000011109181283960801</div><script type="text/javascript" src="http://webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010030090900000000000000011109181283960801")</script><noscript><img src="http://webd.home.news.cn/1.gif?z=1&_wdxid=010030090900000000000000011109181283960801" border="0" /></noscript></div>   </body>
+</html>

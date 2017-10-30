@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<title>TaipeiWalker西武鐵路通票  江戶風情一日遊！</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="安排小江戶1日遊行程，首先購買外國旅客限定的西武鐵路通票，御守造型的車票鑲有金箔文字，可愛又獨特時常成為觀光客的收藏品。" />
+<meta name="keywords" content="">
+<meta name="Robots" content="all">
+<!--FB讚用(在FB,滑過讚的項目會出現圖及文章名)-->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="西武鐵路通票  江戶風情一日遊！"/>
+<meta property="og:url" content="http://www.taipeiwalker.com.tw/p4-detail.php?id=2809" />
+<meta property="og:description" content="安排小江戶1日遊行程，首先購買外國旅客限定的西武鐵路通票，御守造型的車票鑲有金箔文字，可愛又獨特時常成為觀光客的收藏品。" />
+<meta property="og:image" content="http://www.kadokawa.com.tw/Upload/walker_201509071150571.jpg"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/style-p4.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="pragma" content="no-cache">
+<script language="JavaScript" type="text/JavaScript" src="js/script.js"></script>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script> 
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" /> 
+<link href="css/sample_lightbox_layout.css" rel="stylesheet" type="text/css" /></head>
+
+<body  >
+  <div id="wrapper-bg">
+<div id="wrapper">
+<div class="menu">
+  <table width="950" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="3">
+        <table width="952" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="23%">&nbsp;</td>
+            <td width="48%" align="right">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="http://www.kadokawa.com.tw/" title="台灣角川KADOKAWA TAIWAN" target="windows"><img src="images/index/icon.jpg"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-rule" target="windows"><img src="images/index/icon1.jpg" alt="註冊REGISTER" border="0" /></a></td>
+                  <td><a href="_p0-login.php?keepThis=true&amp;TB_iframe=true&amp;width=350&amp;height=390" class="thickbox"><img src="images/index/icon2.jpg" alt="登入LOGIN"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-login" target="windows"><img src="images/index/icon3.jpg" alt="會員中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p13-service" target="windows"><img src="images/index/icon6.jpg" alt="客服中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p8-shoplist" target="windows"><img src="images/index/icon4.jpg" alt="購物車"  border="0" /></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="23%">
+                            <a href="index.php"><img src="http://www.kadokawa.com.tw/Upload/dblogo_201205241803341.jpg" border="0"  /></a>
+                          </td>
+            <td>
+              <!--<a href="javascript:;"><img src="images/pic/top-banner.jpg" border="0" /></a>  -->
+              <a href="chgLink.php?PKey=6db4Atb27ZTvT5rwbhDkw3oxUlkoDzJe0_unaHQAv44B" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201510261657421.jpg" border="0" /></a>            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <div style="padding-top:10px; padding-bottom:10px;">
+  <div class="menu_area">
+  <a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a1','','images/menu/1s.jpg',1)"><img src="images/menu/1.jpg" name="a1" border="0" id="a1" /></a>
+  <a href="p1.php?date=2015" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2','','images/menu/2s.jpg',1)"><img src="images/menu/2.jpg" name="a2"  alt="封面故事"border="0" id="a2" /></a>
+  <a href="p2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a3','','images/menu/3s.jpg',1)"><img src="images/menu/3.jpg" name="a3"  alt="活動報報"  border="0" id="a3" /></a>
+  <a href="p3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a4','','images/menu/4s.jpg',1)"><img src="images/menu/4.jpg" alt="電影試映室" name="a4"  border="0" id="a4" /></a>
+<a href="p4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a5','','images/menu/5s.jpg',1)"><img src="images/menu/5.jpg" alt="Walker情報" name="a5"  border="0" id="a5" /></a>
+<a href="p5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a6','','images/menu/6s.jpg',1)"><img src="images/menu/6.jpg" name="a6" alt="雜誌&書籍"   border="0" id="a6" /></a>
+  <a href="p6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a7','','images/menu/7s.jpg',1)"><img src="images/menu/7.jpg" name="a7" alt="Digital Reading 數位閱讀"  border="0" id="a7" /></a>
+<a href="http://www.walkerland.com.tw/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a8','','images/menu/8s.jpg',1)"><img src="images/menu/8.jpg" name="a8" alt="WalkerLand"  border="0" id="a8" /></a> 
+<a href="http://www.jwalker.jp/"  target="_blank"  onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a9','','images/menu/9s.jpg',1)"><img src="images/menu/9.jpg" name="a9" alt="PINTA小刺郎"  border="0" id="a9" /></a>
+ <a class="right" href="p9.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a10','','images/menu/10s.jpg',1)"><img src="images/menu/10.jpg" name="a10"  alt="關於角川"  border="0" id="a10" /></a>
+  <!--menu_area end-->
+  </div>
+  </div>
+  <!--menu-->
+    <table width="1000" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="20" nowrap="nowrap">&nbsp;</td>
+      <td width="300" nowrap="nowrap">
+        <div style="float:left;padding-top:12px;"><b class="red">輸入關鍵字：</b></div>
+        <div id="cse-search-form" style="width:220px;float:left;">Loading</div>
+        <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+        <script type="text/javascript"> 
+  google.load('search', '1', {language : 'zh-TW', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '009280701241221109559:1s1grz73mb0', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://www.taipeiwalker.com.tw/p0-search.php");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+        <style type="text/css">
+/* td.gsc-input{  width:80px;}*/
+input[type="search"] {
+  -webkit-appearance: textfield;
+}
+
+  input.gsc-input {
+	/*width:80px;*/
+	  font-size:12px;
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+    border-color: #BBBBBB;
+  }
+  input.gsc-search-button {
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+	 height:24px;
+	  width:40px;
+	  font-size:12px;
+    border-color: #cc0000;
+    background-color: #cc0000;
+  }
+</style>
+      </td>
+      <td align="center" valign="middle"><b class="red">熱門關鍵字：</b>
+          <a href="p0-search.php?q=旅遊">旅遊</a>　<a href="p0-search.php?q=美食">美食</a>　<a href="p0-search.php?q=日本上網">日本上網</a>　<a href="p0-search.php?q=超夯美食">超夯美食</a>　<a href="p0-search.php?q=16周年慶">16周年慶</a>　      </td>
+      <td width="200" align="right" valign="middle"><a href="p0_notice.php?link_url=p7-mem-login"><img src="images/index/icon8.jpg" width="101" height="19" hspace="10" border="0" /></a><a href="p10-RSS.php"><img src="images/index/icon-rss.jpg" width="21" height="21" border="0" />&nbsp; </a><a href="http://www.facebook.com/TaipeiWalker.KADOKAWA" target="_blank"><img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" target="_blank" />&nbsp; </a><a href="http://www.plurk.com/TaipeiWalker" target="_blank"><img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp; </a></td>
+    </tr>
+  </table>
+  </div>
+<div class="container">
+  
+﻿<div class="page-index">
+  <!--page-index-->
+  <div class="side_area">
+    <div class="side_title1">
+      <span class="date-top-blak">New</span> <span class="date-top-red">Walker</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=0f65TqZOm3EzdcliACLxOBu35C1941FtpWFJqCaLYj1p">
+      <div class="pic"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510310048301.jpg"  border="0"  width="100" height="144"/></div>
+      <div class="word">
+        <div class="title">
+          <p>Taipei Walker 223期</p>
+        </div>
+        <div class="subtitle">5大溫泉區  享受泡湯好時光</div>
+        <div class="txt">作者 : Taipei Walker編輯部<br />
+          出版日期 :
+           2015/11/01<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            109</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+  <div class="side_area">
+    <div class="side_title2">
+      <span class="date-top-blak">New</span> <span class="date-top-blue">Book</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=7e39GnsLfFmin1Dhg1NYcaCs7Z-_ABzLfP7cxxkRJs4o">
+      <div class="pic2"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510211637531.jpg"  border="0" width="100" height="144" /></div>
+      <div class="word">
+        <div class="title">
+          <p>曼谷新旅行</p>
+        </div>
+        <div class="subtitle">Because it is Bangkok</div>
+        <div class="txt">作者 : 勞倫斯<br />
+          出版日期 :
+           2015/10/24<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            272</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+        <div class="side_tree">
+    <div class="side_tree_title">Walker情報分類樹狀</div>
+        <div class="side_tree_set_on"><a href="p4.php?seriesa=1&amp;page=1">
+      旅遊      (
+      471      )</a>
+        <div class="side_tree_sub"><a href="p4.php?seriesa=1&seriesb=1&page=1" class="">國內旅遊(126)</a><a href="p4.php?seriesa=1&seriesb=2&page=1" class="">國外旅遊(35)</a><a href="p4.php?seriesa=1&seriesb=21&page=1" class="">Walker(183)</a><a href="p4.php?seriesa=1&seriesb=38&page=1" class="on">來去日本(127)</a></div>    </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=2&amp;page=1">
+      美食      (
+      838      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=3&amp;page=1">
+      生活      (
+      429      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=5&amp;page=1">
+      影視      (
+      610      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=6&amp;page=1">
+      數位      (
+      140      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=4&amp;page=1">
+      藝文活動      (
+      204      )</a>
+            </div>
+      </div>
+    <a href="chgLink.php?PKey=f3a8S3xGyPHg6tkjm570TdMyLt5O-owdLXueDG6KNQ1j" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201507201620231.gif" border="0" /></a><a href="chgLink.php?PKey=3c98BLD8AFDYvSCKRhyafph9ENUAITA3Uh_11k97O32z" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509252001021.jpg" border="0" /></a><a href="chgLink.php?PKey=cb60EP_VTh9iSqbaogJOSTQbiKb50KdeTN3OET64cyAV" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509071346391.gif" border="0" /></a>    <div class="side_news">
+    <p><img src="images/index/index-title-p2.jpg" width="320" height="25" /></p>
+    <div class="side_news_word">
+            <a href="_p2-detail.php?id=1470&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 11月號電影試映會店家明細...
+      </a>
+            <a href="_p2-detail.php?id=1469&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 9月號讀者禮物中獎名單...
+      </a>
+            <a href="_p2-detail.php?id=1467&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號好康試食－「湯太郎蕎麥麵（富錦店）...
+      </a>
+            <a href="_p2-detail.php?id=1466&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「衝出康普頓」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1455&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「好康試食：KG牛排小酒館」中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1457&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「獵巫行動：大滅絕」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1454&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「腥紅山莊」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1453&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「無處可逃」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1446&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「潘恩：航向夢幻島」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1441&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 10月號電影試映會店家明細...
+      </a>
+          </div>
+    <p align="right"> <a href="p2.php"><img src="images/icon.jpg" width="13" height="11" border="0" align="absmiddle" />more&nbsp;</a></p>
+    <!--news-index end-->
+  </div>
+      <a href="chgLink.php?PKey=1f7ff_qxzYxe4945Sx6w54jn6S-ZXjO5X5XfdGHSffgg" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201507201628231.gif" border="0" /></a><a href="chgLink.php?PKey=3defhGXHFwDUhuNIKk1taFd0YoTBJHWShEXotZA3dnQJ" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201412182334141.gif" border="0" /></a><a href="chgLink.php?PKey=afd6lRetq3B5KbTC-Ap9k0EUA63daKk20dB-qH_myGsL" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201412182335261.jpg" border="0" /></a><a href="chgLink.php?PKey=85a1xCrCJzBqF3i_EUKNZphJ6N_BlMjNjraUjcIf6RU" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201405271605421.gif" border="0" /></a><a href="chgLink.php?PKey=5ef13FT9GYbK6jvBWAeixS_Nyo3zmD6YgxV2glLf_h8" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201403071647251.jpg" border="0" /></a>  <div class="side_fb">
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTaipeiWalker.KADOKAWA&amp;width=263&amp;height=410&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=true" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:263px; height:450px;" allowtransparency="true"></iframe>
+    <!--side_fb-->
+  </div>
+  <!--page-index end-->
+</div>
+<div class="inside1">
+<div class="nav"><a href='index.php'><img src='images/icon-home.gif' border='0'>&nbsp;首頁</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;<a href=p4.php?seriesa=1&page=1>Walker情報</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;旅遊</div>
+    <div class="title_area">
+<div class="subtitle_l"><img src="images/icon-p4.png"  align="absmiddle" />&nbsp; Walker情報</div>
+<div class="subtitle_r">旅遊</div>
+</div>
+<div class="p4subject_area">
+<div class="p4title">西武鐵路通票  江戶風情一日遊！</div>
+<div class="p4time">發表日期：2015/09/08　</div>
+</div>
+<div class="p4detail_share">
+
+<a href="javascript: void(window.open('http://www.facebook.com/share.php?u='.concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2809')) ));" target="_blank">
+	<img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" />&nbsp;</a>
+
+<a href="javascript: void(window.open('http://www.plurk.com/?qualifier=shares&status=' .concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2809')) .concat(' ') .concat('&#40;') .concat(encodeURIComponent(document.title)) .concat('&#41;')));" target="_blank">
+	<img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp;</a>
+</div>
+<div class="p4detail_area">
+<div><strong><span style="color: rgb(255, 0, 153);"><span style="font-size: medium;"><span style="font-family: 微軟正黑體, sans-serif;">從新宿出發僅需44分鐘，即可探訪江戶風情！</span></span></span></strong></div>
+<div>&nbsp;</div>
+<div>
+<div style="text-align: left;"><img src="http://www.kadokawa.com.tw//Upload/1441596687398913093.jpg" width="640" height="427" alt="" /></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: left;"><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">安排小江戶1日遊行程，首先購買外國旅客限定的西武鐵路通票，御守造型的車票鑲有金箔文字，可愛又獨特時常成為觀光客的收藏品。而川越是重要的傳統建築保存地區，從新宿乘坐特急Red Arrow號列車，就能輕鬆又快速的穿越時空來到江戶時代，可乘坐人力車漫遊街道，或參加陶</span></span><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">藝、製菓</span><span style="font-size: small;">等各項活動。最後再到喫茶店內享用別有風情的復古咖啡，感受歷史風情滿溢的川越之旅。</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div style="text-align: center;"><strong><span style="font-size: medium;"><span style="color: rgb(0, 0, 0);">西武鐵道╳西武鐵路通票</span><span style="color: rgb(255, 102, 0);">【SEIBU RAIL PASS】</span></span></strong></div>
+<div style="text-align: left;"><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><img src="http://www.kadokawa.com.tw//Upload/14415967571629841119.jpg" width="640" height="344" alt="" /><br />
+</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">HP：<a href="http://www.seibu-group.co.jp/railways/tourist/chinese/privileges/seibu_rail_pass"><span style="color: rgb(0, 0, 255);"><u><strong>www.seibu-group.co.jp/railways/tourist/chinese/privileges/seibu_rail_pass</strong></u></span></a></span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div>&nbsp;</div>
+<div style="text-align: left;"><span style="color: rgb(255, 0, 153);"><span style="background-color: rgb(255, 255, 255);"><span style="font-size: medium;"><strong>～穿越時空體驗江戶浪漫文化、美食、觀光～</strong></span></span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div><span style="color: rgb(204, 0, 153);"><span style="font-size: medium;"><strong>★美々庵（本川越站）</strong></span></span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">在鐘樓附近的美美奄和服體驗店，不僅出租和服也提供髮型整理，只要￥2160起就能完美變身。而每個月18日的「川越和服日」，更是吸引許多人到此參加活動，變身成為江戶美人，悠閒散步在擁有小江戶之名的川越。</span></span></div>
+<div>&nbsp;</div>
+<div><img src="http://www.kadokawa.com.tw//Upload/14415970821339732906.jpg" width="640" height="479" alt="" /></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-family: 微軟正黑體, sans-serif; font-size: small; line-height: 19.5px;">▲</span><span style="font-size: small;">除了在川越街道上散步外，也推薦換上日式和服體驗成為江戶美人。</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">DATA</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">地址：埼玉県川越市幸町14-5</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">電話：+81-90-3524-8979&nbsp;</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">時間：10：00～17：00；六日假10：00～18：00&nbsp;</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">公休：二</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">交通：西武鐵道「本川越」站出口轉搭巴士於「一番街」下車即達</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">HP：<a href="http://www.coedovivian.com">www.coedovivian.com</a></span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(204, 0, 153);"><strong><span style="font-size: medium;">★菓子屋横丁（本川越站）</span></strong></span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">菓子屋橫丁街道曾獲選為百選風景之一。在明治初期，鈴木藤左衛門在繁盛養壽院門前町街道，開始製作江戶小孩們喜愛的糖果點心，也就成為菓子屋橫丁街的起源，興盛時期，還曾多達70間以上的店舖。可走在石板街道上，細細品嚐兩旁各式各樣的懷舊餅乾、糖果。</span></span></div>
+<div>&nbsp;</div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1441597339412956302.jpg" width="640" height="425" alt="" /></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-family: 微軟正黑體, sans-serif; font-size: small; line-height: 19.5px;">▲</span><span style="font-size: small;">擁有色彩繽紛外加可愛圖案的懷舊糖果，從江戶時代流傳至今廣受每個人的喜愛。</span></span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br type="_moz" />
+</span></span></div>
+<div><span style="color: rgb(204, 0, 153);"><strong><span style="font-size: medium;">時の鐘（本川越站）</span></strong></span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">大約400年前，由川越城主&mdash;酒井忠勝建造的鐘樓，現今已傳承第4代樓主。曾在1893年經歷川越大火後再次重建，樓高幾乎與奈良大佛相同高度。而從前在一天之中會定時敲響4次鐘聲（06：00、12：00、15：00、18：00）也被選為最想流傳下去的日本音風景百選之一。</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br type="_moz" />
+</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><img src="http://www.kadokawa.com.tw//Upload/14415974091763502609.jpg" width="640" height="428" alt="" /><br type="_moz" />
+</span></span></div>
+<div><span style="color: rgb(84, 83, 83); font-family: 微軟正黑體, sans-serif; font-size: small; line-height: 19.5px;">▲</span><span style="font-size: small;">從江戶時期起，鐘樓就作為街町中報時的重要角色，也是川越的重要象徵。</span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div><img src="http://www.kadokawa.com.tw//Upload/14415975181847831666.jpg" width="640" height="427" alt="" /></div>
+<div><span style="color: rgb(84, 83, 83); font-family: 微軟正黑體, sans-serif; font-size: small; line-height: 19.5px;">▲</span><span style="font-size: small;">便利的小江戶循環巴士是連接川越觀光名所的路線巴士，<span style="color: rgb(255, 102, 0);"><strong>另售有1日乘車券￥500</strong></span>。</span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br type="_moz" />
+</span></span></div>
+<div><span style="color: rgb(204, 0, 153);"><span style="font-size: medium;"><strong>川越氷川神社（本川越站）</strong></span></span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">冰川神社享有良緣之神的名氣，一直以來受到夫妻與情侶的歡迎，也是川越城的守護神，更是歷代城主以及百姓的信仰。每個月也會舉辦兩次「良緣祈願祭」，在每個月的8日與第4個星期六早上8點8分舉行。</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1441597593282311708.jpg" width="640" height="480" alt="" /></div>
+<div><span style="color: rgb(84, 83, 83); font-family: 微軟正黑體, sans-serif; font-size: small; line-height: 19.5px;">▲</span><span style="font-size: small;">神社入口處可看到碩大的木製鳥居，15公尺的高度堪稱日本第一。每</span><span style="font-size: small;">日還會限量發送結緣玉石，受歡迎程度可不容小覷。</span></div>
+<div>&nbsp;</div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">DATA</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">地址：埼玉県川越市宮下町2-11-3&nbsp;</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">電話：+81-49-224-0589&nbsp;</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">時間：09：00～17：00&nbsp;</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">公休：無</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">交通：西武鐵道「本川越」站出口轉搭小江戶循環巴士「氷川神社前」站下車即達</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;">HP：<a href="http://www.kawagoehikawa.jp">www.kawagoehikawa.jp</a></span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><br />
+</span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><span style="font-family: 微軟正黑體; line-height: 19.5px;"><span style="font-family: 微軟正黑體, sans-serif;">★想知道更多優惠交通票券資訊，請看&nbsp;</span></span><span style="font-family: 微軟正黑體; line-height: 19.5px;"><span style="font-family: 微軟正黑體, sans-serif;"><a href="http://www.taipeiwalker.com.tw/p5-detail.php?id=d6efvF2wAoeMw9s2eH4HOjKaAlH8fxzNxkpu8FhOWubf"><strong><u><span style="color: rgb(0, 0, 255);">Japan Walker vol.2 9月號</span></u></strong></a></span></span></span></span></div>
+<div><span style="color: rgb(0, 0, 0);"><span style="font-size: small;"><a href="http://www.taipeiwalker.com.tw/p5-detail.php?id=d6efvF2wAoeMw9s2eH4HOjKaAlH8fxzNxkpu8FhOWubf"><img src="http://www.kadokawa.com.tw//Upload/14415976331656112272.png" width="640" height="283" alt="" /></a></span></span></div>
+</div>
+<p>&nbsp;</p> <div class="ssubtitle">
+        <div class="ssubtitle_l">相關情報</div>
+      </div>
+  <div class="news_relate_word">
+  <!--Select PKey,strName from walker Where PKey <> 2809 AND Class1_PKey=1 AND OpenDate <=Now() AND EndDate >= Now() Order By OpenDate DESC limit 5-->  
+  <p>
+    <a href="p4-detail.php?id=2890">悠閒感受茶鄉之美</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2892">#在曼谷必做的30件事 前往天空酒吧！</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2889">濃郁鄉村風格的秘居</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2883">#在曼谷必做的30件事  遊覽傳統水上市場</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2881">「全美TOP10」排隊甜點店  甜甜圈現身代官山</a>
+  </p>  
+  </div><p align="right"><a href="p4.php?seriesa=1&page=1">看更多》</a></p>
+
+<!--p4detail_area end--><br>
+<!--按讚用的-->
+          <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+          <fb:like href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2809" send="false" width="200" show_faces="false" font="verdana"></fb:like>
+          <!--pro_share end-->
+<!--pro_share end--></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</div>
+<div class="p4fb_message">
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-comments" data-href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2809" data-num-posts="10" data-width="670"></div>
+
+<!--p4fb_message-->
+</div>
+     <!--inside1 end-->
+</div>
+    <!--container-->
+</div>
+    <!--wrapper-->
+</div>
+    <!--wrapper-bg-->
+
+  <p>&nbsp; </p>
+</div>
+<div class="footer">
+<p>
+  <!--用法2-->
+  <a href="index.php">回首頁</a>　|　<a href="p9.php">關於角川</a>　| <a href="p9_2.php">廣告刊登</a>　|　<a href="p9_3.php">異業合作</a>　|　<a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=604048734a4c455c3738406954343d2194240492e524c4427272727233f312c2b826j48" target="_blank">徵才資訊</a>　|　<a href="p0_notice.php?link_url=p7-mem-login">會員專區</a>　|　<a href="p9_5.php">聯絡角川　</a>|　<a href="p9_6.php">隱私權聲明</a></p>
+<p><br />
+  <p>台灣角川股份有限公司版權所有，未經許可不可轉載 Copyright &copy; 1999 KADOKAWA TAIWAN CORPORATION All Rights Reserved.</p>
+<br /><!--
+  建議使用1024x768解析度及IE6.0以上版本觀看　Use Browser IE6.0 or above for best effect.
+    &nbsp;&nbsp;網頁設計 <a href="http://www.tsg.com.tw/" target="_blank">T.S.G.</a>--></p>
+<!--footer--></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2867669-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
+

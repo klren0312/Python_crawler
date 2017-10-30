@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<title>TaipeiWalker秋高氣爽露營去! Go Camping!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="愈來愈常聽到身邊的朋友討論著露營的種種，不論是親子同露或是三五好友相約首露，在城市裡，露營這股風潮正蔓延開來。" />
+<meta name="keywords" content="">
+<meta name="Robots" content="all">
+<!--FB讚用(在FB,滑過讚的項目會出現圖及文章名)-->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="秋高氣爽露營去! Go Camping!"/>
+<meta property="og:url" content="http://www.taipeiwalker.com.tw/p4-detail.php?id=2826" />
+<meta property="og:description" content="愈來愈常聽到身邊的朋友討論著露營的種種，不論是親子同露或是三五好友相約首露，在城市裡，露營這股風潮正蔓延開來。" />
+<meta property="og:image" content="http://www.kadokawa.com.tw/Upload/walker_201509151302211.jpg"/>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/style-p4.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="pragma" content="no-cache">
+<script language="JavaScript" type="text/JavaScript" src="js/script.js"></script>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script> 
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" /> 
+<link href="css/sample_lightbox_layout.css" rel="stylesheet" type="text/css" /></head>
+
+<body  >
+  <div id="wrapper-bg">
+<div id="wrapper">
+<div class="menu">
+  <table width="950" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="3">
+        <table width="952" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="23%">&nbsp;</td>
+            <td width="48%" align="right">
+              <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><a href="http://www.kadokawa.com.tw/" title="台灣角川KADOKAWA TAIWAN" target="windows"><img src="images/index/icon.jpg"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-rule" target="windows"><img src="images/index/icon1.jpg" alt="註冊REGISTER" border="0" /></a></td>
+                  <td><a href="_p0-login.php?keepThis=true&amp;TB_iframe=true&amp;width=350&amp;height=390" class="thickbox"><img src="images/index/icon2.jpg" alt="登入LOGIN"  border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p7-mem-login" target="windows"><img src="images/index/icon3.jpg" alt="會員中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p13-service" target="windows"><img src="images/index/icon6.jpg" alt="客服中心" border="0" /></a></td>
+                  <td><a href="p0_notice.php?link_url=p8-shoplist" target="windows"><img src="images/index/icon4.jpg" alt="購物車"  border="0" /></a></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="23%">
+                            <a href="index.php"><img src="http://www.kadokawa.com.tw/Upload/dblogo_201205241803341.jpg" border="0"  /></a>
+                          </td>
+            <td>
+              <!--<a href="javascript:;"><img src="images/pic/top-banner.jpg" border="0" /></a>  -->
+              <a href="chgLink.php?PKey=5059557ftM3035yhPd6esoVibHjYLaKZX3vsHgZCGBRF" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201510261657421.jpg" border="0" /></a>            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <div style="padding-top:10px; padding-bottom:10px;">
+  <div class="menu_area">
+  <a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a1','','images/menu/1s.jpg',1)"><img src="images/menu/1.jpg" name="a1" border="0" id="a1" /></a>
+  <a href="p1.php?date=2015" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a2','','images/menu/2s.jpg',1)"><img src="images/menu/2.jpg" name="a2"  alt="封面故事"border="0" id="a2" /></a>
+  <a href="p2.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a3','','images/menu/3s.jpg',1)"><img src="images/menu/3.jpg" name="a3"  alt="活動報報"  border="0" id="a3" /></a>
+  <a href="p3.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a4','','images/menu/4s.jpg',1)"><img src="images/menu/4.jpg" alt="電影試映室" name="a4"  border="0" id="a4" /></a>
+<a href="p4.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a5','','images/menu/5s.jpg',1)"><img src="images/menu/5.jpg" alt="Walker情報" name="a5"  border="0" id="a5" /></a>
+<a href="p5.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a6','','images/menu/6s.jpg',1)"><img src="images/menu/6.jpg" name="a6" alt="雜誌&書籍"   border="0" id="a6" /></a>
+  <a href="p6.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a7','','images/menu/7s.jpg',1)"><img src="images/menu/7.jpg" name="a7" alt="Digital Reading 數位閱讀"  border="0" id="a7" /></a>
+<a href="http://www.walkerland.com.tw/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a8','','images/menu/8s.jpg',1)"><img src="images/menu/8.jpg" name="a8" alt="WalkerLand"  border="0" id="a8" /></a> 
+<a href="http://www.jwalker.jp/"  target="_blank"  onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a9','','images/menu/9s.jpg',1)"><img src="images/menu/9.jpg" name="a9" alt="PINTA小刺郎"  border="0" id="a9" /></a>
+ <a class="right" href="p9.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('a10','','images/menu/10s.jpg',1)"><img src="images/menu/10.jpg" name="a10"  alt="關於角川"  border="0" id="a10" /></a>
+  <!--menu_area end-->
+  </div>
+  </div>
+  <!--menu-->
+    <table width="1000" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="20" nowrap="nowrap">&nbsp;</td>
+      <td width="300" nowrap="nowrap">
+        <div style="float:left;padding-top:12px;"><b class="red">輸入關鍵字：</b></div>
+        <div id="cse-search-form" style="width:220px;float:left;">Loading</div>
+        <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+        <script type="text/javascript"> 
+  google.load('search', '1', {language : 'zh-TW', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+      '009280701241221109559:1s1grz73mb0', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://www.taipeiwalker.com.tw/p0-search.php");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+</script>
+        <style type="text/css">
+/* td.gsc-input{  width:80px;}*/
+input[type="search"] {
+  -webkit-appearance: textfield;
+}
+
+  input.gsc-input {
+	/*width:80px;*/
+	  font-size:12px;
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+    border-color: #BBBBBB;
+  }
+  input.gsc-search-button {
+	  -webkit-text-size-adjust:none;/*解除chrome的字級限制*/
+	 height:24px;
+	  width:40px;
+	  font-size:12px;
+    border-color: #cc0000;
+    background-color: #cc0000;
+  }
+</style>
+      </td>
+      <td align="center" valign="middle"><b class="red">熱門關鍵字：</b>
+          <a href="p0-search.php?q=旅遊">旅遊</a>　<a href="p0-search.php?q=美食">美食</a>　<a href="p0-search.php?q=日本上網">日本上網</a>　<a href="p0-search.php?q=超夯美食">超夯美食</a>　<a href="p0-search.php?q=16周年慶">16周年慶</a>　      </td>
+      <td width="200" align="right" valign="middle"><a href="p0_notice.php?link_url=p7-mem-login"><img src="images/index/icon8.jpg" width="101" height="19" hspace="10" border="0" /></a><a href="p10-RSS.php"><img src="images/index/icon-rss.jpg" width="21" height="21" border="0" />&nbsp; </a><a href="http://www.facebook.com/TaipeiWalker.KADOKAWA" target="_blank"><img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" target="_blank" />&nbsp; </a><a href="http://www.plurk.com/TaipeiWalker" target="_blank"><img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp; </a></td>
+    </tr>
+  </table>
+  </div>
+<div class="container">
+  
+﻿<div class="page-index">
+  <!--page-index-->
+  <div class="side_area">
+    <div class="side_title1">
+      <span class="date-top-blak">New</span> <span class="date-top-red">Walker</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=e10bbPIlByr7EUNj9XTpD_e85vNmqkm0UlN9GEUCwMsS">
+      <div class="pic"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510310048301.jpg"  border="0"  width="100" height="144"/></div>
+      <div class="word">
+        <div class="title">
+          <p>Taipei Walker 223期</p>
+        </div>
+        <div class="subtitle">5大溫泉區  享受泡湯好時光</div>
+        <div class="txt">作者 : Taipei Walker編輯部<br />
+          出版日期 :
+           2015/11/01<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            109</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+  <div class="side_area">
+    <div class="side_title2">
+      <span class="date-top-blak">New</span> <span class="date-top-blue">Book</span>
+      <!--side_title1 end-->
+    </div>
+        <a href="p5-detail.php?id=334fnVzG15zG21NIbkAwIXSa0LeS_x5TdrbmV6nzMgMC">
+      <div class="pic2"><img src="http://www.kadokawa.com.tw/Upload/s_product_201510211637531.jpg"  border="0" width="100" height="144" /></div>
+      <div class="word">
+        <div class="title">
+          <p>曼谷新旅行</p>
+        </div>
+        <div class="subtitle">Because it is Bangkok</div>
+        <div class="txt">作者 : 勞倫斯<br />
+          出版日期 :
+           2015/10/24<br />
+                      會員價 : <span class="red">
+            <!--102-->
+            272</span>元&nbsp;
+                      <!--txt end-->
+        </div>
+        <!--word end-->
+      </div>
+    </a>
+        <!--side_area end-->
+  </div>
+        <div class="side_tree">
+    <div class="side_tree_title">Walker情報分類樹狀</div>
+        <div class="side_tree_set_on"><a href="p4.php?seriesa=1&amp;page=1">
+      旅遊      (
+      471      )</a>
+        <div class="side_tree_sub"><a href="p4.php?seriesa=1&seriesb=1&page=1" class="">國內旅遊(126)</a><a href="p4.php?seriesa=1&seriesb=2&page=1" class="">國外旅遊(35)</a><a href="p4.php?seriesa=1&seriesb=21&page=1" class="on">Walker(183)</a><a href="p4.php?seriesa=1&seriesb=38&page=1" class="">來去日本(127)</a></div>    </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=2&amp;page=1">
+      美食      (
+      838      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=3&amp;page=1">
+      生活      (
+      429      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=5&amp;page=1">
+      影視      (
+      610      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=6&amp;page=1">
+      數位      (
+      140      )</a>
+            </div>
+        <div class="side_tree_set"><a href="p4.php?seriesa=4&amp;page=1">
+      藝文活動      (
+      204      )</a>
+            </div>
+      </div>
+    <a href="chgLink.php?PKey=e186FeqwZXOt0XPN0odt_lllxLH_T7FKJWAP_Hod59h6" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201510191646441.gif" border="0" /></a><a href="chgLink.php?PKey=80eaJ8P4vD66ZcCOIMVCLpiv6OTOIJogh9YzdcZmWJVA" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509071327441.gif" border="0" /></a><a href="chgLink.php?PKey=7cbcAjAByFJwFvEsQQHQinLgmMyYVjs9np_He6QmRJkF" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201509071346391.gif" border="0" /></a>    <div class="side_news">
+    <p><img src="images/index/index-title-p2.jpg" width="320" height="25" /></p>
+    <div class="side_news_word">
+            <a href="_p2-detail.php?id=1470&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 11月號電影試映會店家明細...
+      </a>
+            <a href="_p2-detail.php?id=1469&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 9月號讀者禮物中獎名單...
+      </a>
+            <a href="_p2-detail.php?id=1467&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號好康試食－「湯太郎蕎麥麵（富錦店）...
+      </a>
+            <a href="_p2-detail.php?id=1466&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「衝出康普頓」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1455&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「好康試食：KG牛排小酒館」中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1457&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「獵巫行動：大滅絕」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1454&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「腥紅山莊」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1453&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「無處可逃」幸運讀者中獎名單！...
+      </a>
+            <a href="_p2-detail.php?id=1446&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-24.png" align="absmiddle" />&nbsp;
+        TW 10月號「潘恩：航向夢幻島」幸運讀者中獎名...
+      </a>
+            <a href="_p2-detail.php?id=1441&amp;keepThis=true&amp;TB_iframe=true&amp;width=680&amp;height=400" class="thickbox"> <img src="images/p2/icon-23.png" align="absmiddle" />&nbsp;
+        TW 10月號電影試映會店家明細...
+      </a>
+          </div>
+    <p align="right"> <a href="p2.php"><img src="images/icon.jpg" width="13" height="11" border="0" align="absmiddle" />more&nbsp;</a></p>
+    <!--news-index end-->
+  </div>
+      <a href="chgLink.php?PKey=db8fmuMXmHMmCMAk5sTr_Q1FH-Fy5yt1F16fQI-C28M" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201405231513521.gif" border="0" /></a><a href="chgLink.php?PKey=ecd7hgiijcZnyXlHMNtK0tjDDBJ60id2hy_dIfs8XJ0" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201409241851501.jpg" border="0" /></a><a href="chgLink.php?PKey=e576oL8QjdjEhiqhLM4ht-_fItES1-MpZxNl88z_RhnV" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201501141413221.gif" border="0" /></a><a href="chgLink.php?PKey=2f60JWIS7FQ7Iyl2aRsqRDPSnXgHaHdjXwMSfS2SOa4" target="_blank"><img src="http://www.kadokawa.com.tw/Upload/dbad_201405271605421.gif" border="0" /></a><a href="chgLink.php?PKey=ef858F-AykSSrUVXuc_b1n83zr5C0C2TP2o2D7lvXCg" target="_self"><img src="http://www.kadokawa.com.tw/Upload/dbad_201403071647251.jpg" border="0" /></a>  <div class="side_fb">
+    <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTaipeiWalker.KADOKAWA&amp;width=263&amp;height=410&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=true&amp;header=true" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:263px; height:450px;" allowtransparency="true"></iframe>
+    <!--side_fb-->
+  </div>
+  <!--page-index end-->
+</div>
+<div class="inside1">
+<div class="nav"><a href='index.php'><img src='images/icon-home.gif' border='0'>&nbsp;首頁</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;<a href=p4.php?seriesa=1&page=1>Walker情報</a>&nbsp;<img src='images/icon-1.gif'>&nbsp;旅遊</div>
+    <div class="title_area">
+<div class="subtitle_l"><img src="images/icon-p4.png"  align="absmiddle" />&nbsp; Walker情報</div>
+<div class="subtitle_r">旅遊</div>
+</div>
+<div class="p4subject_area">
+<div class="p4title">秋高氣爽露營去! Go Camping!</div>
+<div class="p4time">發表日期：2015/09/15　</div>
+</div>
+<div class="p4detail_share">
+
+<a href="javascript: void(window.open('http://www.facebook.com/share.php?u='.concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2826')) ));" target="_blank">
+	<img src="images/index/icon-facebook.jpg" width="21" height="21" border="0" />&nbsp;</a>
+
+<a href="javascript: void(window.open('http://www.plurk.com/?qualifier=shares&status=' .concat(encodeURIComponent('http://www.taipeiwalker.com.tw/p4-detail.php?id=2826')) .concat(' ') .concat('&#40;') .concat(encodeURIComponent(document.title)) .concat('&#41;')));" target="_blank">
+	<img src="images/index/icon-plurk.jpg" width="21" height="21" border="0" />&nbsp;</a>
+</div>
+<div class="p4detail_area">
+<div><img src="http://www.kadokawa.com.tw//Upload/1442290027462247420.jpg" width="680" height="383" alt="" /></div>
+<div><span style="font-family: 微軟正黑體, sans-serif; font-size: small;">▲舒適寬敞的太魯灣營地也相當推薦新手們前往。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">愈來愈常聽到身邊的朋友討論著露營的種種</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">不論是親子同露或是三五好友相約首露</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">在城市裡</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">露營這股風潮正蔓延開來</span><span style="font-family: 微軟正黑體, sans-serif;">。</span></span><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">秋日是相當適合露營的季節</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">氣候微涼</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">又不必擔心蚊蟲大軍攻擊</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">加上年底前又有許多主題性的大型露營活動即將展開</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">像是</span><span style="color: rgb(51, 153, 102);"><strong><span style="font-family: 微軟正黑體, sans-serif;">Camp de&nbsp;</span><span style="font-family: 微軟正黑體, sans-serif;">Amigo</span><span style="font-family: 微軟正黑體, sans-serif;">戶外聯合音樂祭</span></strong></span><span style="font-family: 微軟正黑體, sans-serif;">、</span><span style="color: rgb(255, 0, 153);"><strong><span style="font-family: 微軟正黑體, sans-serif;">G.C.T</span><span style="font-family: 微軟正黑體, sans-serif;">主辦的</span><span style="font-family: 微軟正黑體, sans-serif;">C</span><span style="font-family: 微軟正黑體, sans-serif;">&times;</span><span style="font-family: 微軟正黑體, sans-serif;">3</span><span style="font-family: 微軟正黑體, sans-serif;">彩色露營嘉年華</span></strong></span><span style="font-family: 微軟正黑體, sans-serif;">等</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">讓許多未曾體驗首露的人們躍躍欲試</span><span style="font-family: 微軟正黑體, sans-serif;">。</span></span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">露營看似難度不高</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">不過對新手而言</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">仍有一些基本的觀念需要建立</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">唯有一開始就正確而愉悅的體驗露營</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">才能夠更專注而持續培養興趣</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">本期我們將分享幾位露營玩家的經驗談</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">教你如何更輕鬆的開始露營</span><span style="font-family: 微軟正黑體, sans-serif;">！</span></span></div>
+<div>&nbsp;</div>
+<hr />
+<div>&nbsp;</div>
+<div>
+<div><strong><span style="font-size: medium;"><span style="font-family: 微軟正黑體, sans-serif; color: rgb(255, 64, 0);">Part1.</span><span style="font-family: 微軟正黑體, sans-serif; color: rgb(255, 64, 0);">玩家帶你</span><span style="font-family: 微軟正黑體, sans-serif; color: rgb(255, 64, 0);">Go Camping!!</span></span></strong></div>
+<div>&nbsp;</div>
+</div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1442294808494568167.png" width="680" height="214" alt="" /></div>
+<div>&nbsp;</div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">Frank</span><span style="font-family: 微軟正黑體, sans-serif;">和小武哥</span><span style="font-family: 微軟正黑體, sans-serif;">、</span><span style="font-family: 微軟正黑體, sans-serif;">Sunny</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">因為工作關係</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">常常接觸到露營新手</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">大家常因為不清楚需求而買了不適合的裝備</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">所以</span><span style="font-family: 微軟正黑體, sans-serif;">Frank</span><span style="font-family: 微軟正黑體, sans-serif;">建議新手一開始可以先租借</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">使用過後確認自己的需求再添購</span><span style="font-family: 微軟正黑體, sans-serif;">。</span><span style="font-family: 微軟正黑體, sans-serif;">若一段時間後需求改變了</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">不妨轉賣給其他需要的人</span><span style="font-family: 微軟正黑體, sans-serif;">，</span><span style="font-family: 微軟正黑體, sans-serif;">才不會造成物資浪費</span><span style="font-family: 微軟正黑體, sans-serif;">。</span></span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">除了裝備</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">Sunny</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">也建議新手可以多多嘗試不同的社團</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">藉由社團的分享和交流</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">能讓你更快熟悉露營</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">。</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">明年他們將合辦體驗團</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">由</span><span style="color: rgb(153, 51, 0);"><strong><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">登山樂提供裝備</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">而野孩子</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">Wild Kids</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">則負責活動的規劃執行</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">每月至少一檔</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">，</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">有興趣的朋友可至登山樂找</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">Frank</span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">報名</span></strong></span><span style="font-size: small; font-family: 微軟正黑體, sans-serif;">。</span></div>
+<div>&nbsp;</div>
+<div><span style="font-size: small; font-family: 微軟正黑體, sans-serif;"><img src="http://www.kadokawa.com.tw//Upload/1442291087761682426.png" width="680" height="438" alt="" /></span></div>
+<div>&nbsp;</div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">▲(右圖)／今年六月舉辦的放空團，野孩子帶大家夜宿花蓮舞山鶴，孩子們可以盡情在草地上嬉戲奔跑。(左上圖)／義工人員架設公共活動空間的天幕。(左下圖)／今年七月舉辦的Coleman親子營活動，位於龍門渡假營地，現場搭起Coleman WINDS 輕量化帳篷。</span></span></div>
+<div>&nbsp;</div>
+<div style="text-align: center;"><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;"><img src="http://www.kadokawa.com.tw//Upload/1442291755989390659.jpg" width="335" height="223" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/1442291783329373941.jpg" width="335" height="223" alt="" /></span></span></div>
+<div style="text-align: left;"><span style="color: rgb(84, 83, 83); font-family: 微軟正黑體, sans-serif; font-size: small; line-height: 19.5px;">▲今年六月舉辦的放空團，野孩子帶大家夜宿花蓮舞山鶴。</span></div>
+<div style="text-align: left;">&nbsp;</div>
+<div><img src="http://www.kadokawa.com.tw//Upload/1442291557543573556.jpg" width="680" height="453" alt="" /></div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">▲這是五月所舉辦屬於媽咪的貴婦英式下午茶露營活動，將一樣的帳篷安排在一起。</span></span></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div style="text-align: left;"><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;"><span style="font-size: medium;"><strong><span style="color: rgb(153, 51, 0);">露營中毒者「蛋爸與花媽」，最喜愛帶著蛋花兄妹上山下海，體驗戶外生活。</span></strong></span></span></span></div>
+<div><span style="font-family: 微軟正黑體, sans-serif; font-size: small;"><br />
+本著過來人的經驗談，花媽建議</span><strong style="font-family: 微軟正黑體, sans-serif; font-size: small;">新手不要太急著買裝備，可以選擇有裝備租借的營地</strong><span style="font-family: 微軟正黑體, sans-serif; font-size: small;">，甚至有些餐廳也會附設營地，一次解決住和吃的問題。若要添購配備，除了考慮需求，還要評估收納後的體積，否則車子無法運送。而營地的挑選一開始不要離家太遠，讓大家能在愉悅的氣氛中開始露營，當然季節的特性也必須考慮。</span></div>
+<div>&nbsp;</div>
+</div>
+<div style="text-align: center;"><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;"><img src="http://www.kadokawa.com.tw//Upload/14422921023750860.jpg" width="338" height="190" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/1442292114790929859.jpg" width="338" height="190" alt="" /></span></span></div>
+<div style="text-align: center;"><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;"><img src="http://www.kadokawa.com.tw//Upload/14422923791484445108.jpg" width="338" height="190" alt="" />&nbsp;<img src="http://www.kadokawa.com.tw//Upload/1442292389784017771.jpg" width="338" height="190" alt="" /></span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;"><img src="http://www.kadokawa.com.tw//Upload/1442292316146538630.jpg" width="680" height="382" alt="" /></span></span></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">更多露營裝備好物＆露營造型穿搭</span></span></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">請看<span style="color: rgb(0, 0, 255);"><strong>《Taipei Walker》9月號</strong></span>，更詳細介紹&gt;&gt;</span></span><a href="http://goo.gl/6u5bqg" style="font-family: 微軟正黑體, sans-serif; font-size: 12pt;"><span style="font-size: small;"><u><span style="color: rgb(0, 0, 255);"><strong>http://goo.gl/6u5bqg</strong></span></u></span></a></div>
+<div><span style="font-size: small;"><span style="font-family: 微軟正黑體, sans-serif;">另有</span><span style="color: rgb(0, 0, 255);"><strong><span style="font-family: 微軟正黑體, sans-serif;">《</span><span style="font-family: 微軟正黑體, sans-serif;">好動專刊-露營Ⅱ</span>》</strong></span>&gt;&gt;</span><strong><span style="font-family: 微軟正黑體, sans-serif;"><a href="http://goo.gl/b2OCQI"><span style="font-size: small;"><u><span style="color: rgb(0, 0, 255);">http://goo.gl/b2OCQI</span></u></span></a></span></strong></div>
+<div><strong><span style="font-size: small;"><span style="font-size: small;"><a href="http://goo.gl/b2OCQI"><img src="http://www.kadokawa.com.tw//Upload/14422930521540897498.jpg" width="420" height="129" alt="" /></a></span></span></strong></div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+</div>
+<p>&nbsp;</p> <div class="ssubtitle">
+        <div class="ssubtitle_l">相關情報</div>
+      </div>
+  <div class="news_relate_word">
+  <!--Select PKey,strName from walker Where PKey <> 2826 AND Class1_PKey=1 AND OpenDate <=Now() AND EndDate >= Now() Order By OpenDate DESC limit 5-->  
+  <p>
+    <a href="p4-detail.php?id=2890">悠閒感受茶鄉之美</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2892">#在曼谷必做的30件事 前往天空酒吧！</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2889">濃郁鄉村風格的秘居</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2883">#在曼谷必做的30件事  遊覽傳統水上市場</a>
+  </p>  
+    
+  <p>
+    <a href="p4-detail.php?id=2881">「全美TOP10」排隊甜點店  甜甜圈現身代官山</a>
+  </p>  
+  </div><p align="right"><a href="p4.php?seriesa=1&page=1">看更多》</a></p>
+
+<!--p4detail_area end--><br>
+<!--按讚用的-->
+          <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+          <fb:like href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2826" send="false" width="200" show_faces="false" font="verdana"></fb:like>
+          <!--pro_share end-->
+<!--pro_share end--></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</div>
+<div class="p4fb_message">
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-comments" data-href="http://www.taipeiwalker.com.tw/p4-detail.php?id=2826" data-num-posts="10" data-width="670"></div>
+
+<!--p4fb_message-->
+</div>
+     <!--inside1 end-->
+</div>
+    <!--container-->
+</div>
+    <!--wrapper-->
+</div>
+    <!--wrapper-bg-->
+
+  <p>&nbsp; </p>
+</div>
+<div class="footer">
+<p>
+  <!--用法2-->
+  <a href="index.php">回首頁</a>　|　<a href="p9.php">關於角川</a>　| <a href="p9_2.php">廣告刊登</a>　|　<a href="p9_3.php">異業合作</a>　|　<a href="http://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=604048734a4c455c3738406954343d2194240492e524c4427272727233f312c2b826j48" target="_blank">徵才資訊</a>　|　<a href="p0_notice.php?link_url=p7-mem-login">會員專區</a>　|　<a href="p9_5.php">聯絡角川　</a>|　<a href="p9_6.php">隱私權聲明</a></p>
+<p><br />
+  <p>台灣角川股份有限公司版權所有，未經許可不可轉載 Copyright &copy; 1999 KADOKAWA TAIWAN CORPORATION All Rights Reserved.</p>
+<br /><!--
+  建議使用1024x768解析度及IE6.0以上版本觀看　Use Browser IE6.0 or above for best effect.
+    &nbsp;&nbsp;網頁設計 <a href="http://www.tsg.com.tw/" target="_blank">T.S.G.</a>--></p>
+<!--footer--></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2867669-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body>
+</html>
+
